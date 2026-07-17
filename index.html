@@ -1,0 +1,730 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Quiz</title>
+
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #0f172a;
+      color: #e2e8f0;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      min-height: 100vh;
+      margin: 0;
+      padding: 20px;
+      box-sizing: border-box;
+    }
+
+    .container {
+      background: #1e293b;
+      padding: 30px;
+      border-radius: 16px;
+      width: 90%;
+      max-width: 500px;
+      box-shadow: 0 10px 30px rgba(0,0,0,0.4);
+    }
+
+    h2 {
+      margin-bottom: 20px;
+    }
+
+    /* --- Przelacznik trybow --- */
+    #modeSwitch {
+      display: flex;
+      gap: 8px;
+      margin-bottom: 20px;
+    }
+
+    .mode-btn {
+      flex: 1;
+      padding: 10px 6px;
+      border: none;
+      border-radius: 10px;
+      background: #334155;
+      color: #94a3b8;
+      font-size: 14px;
+      font-weight: bold;
+      cursor: pointer;
+      transition: 0.2s;
+    }
+
+    .mode-btn.active {
+      background: #2563eb;
+      color: white;
+    }
+
+    .mode-btn:hover:not(.active) {
+      background: #475569;
+    }
+
+    /* --- Kategorie (przyciski, quiz i fiszki) --- */
+    #categories button, #fiszkiCategories button {
+      width: 100%;
+      padding: 12px;
+      margin: 8px 0;
+      border: none;
+      border-radius: 10px;
+      background: #2563eb;
+      color: white;
+      font-size: 16px;
+      cursor: pointer;
+      transition: 0.2s;
+    }
+
+    #categories button:hover, #fiszkiCategories button:hover {
+      background: #1d4ed8;
+    }
+
+    /* --- Kategorie w egzaminie (checkboxy) --- */
+    .exam-cat-row {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      padding: 10px 12px;
+      margin: 6px 0;
+      background: #0f172a;
+      border: 1px solid #334155;
+      border-radius: 10px;
+      cursor: pointer;
+    }
+
+    .exam-cat-row input {
+      width: 18px;
+      height: 18px;
+      flex-shrink: 0;
+    }
+
+    .exam-cat-row label {
+      cursor: pointer;
+      font-size: 15px;
+      flex: 1;
+    }
+
+    #examSelectAllBtn {
+      width: 100%;
+      padding: 10px;
+      margin: 10px 0;
+      border: none;
+      border-radius: 10px;
+      background: #334155;
+      color: #e2e8f0;
+      font-size: 14px;
+      cursor: pointer;
+    }
+
+    #examSelectAllBtn:hover {
+      background: #475569;
+    }
+
+    #examStartBtn {
+      width: 100%;
+      padding: 12px;
+      border: none;
+      border-radius: 10px;
+      background: #16a34a;
+      color: white;
+      font-size: 16px;
+      font-weight: bold;
+      cursor: pointer;
+      margin-top: 6px;
+    }
+
+    #examStartBtn:hover {
+      background: #15803d;
+    }
+
+    #examStartBtn:disabled {
+      background: #334155;
+      color: #64748b;
+      cursor: not-allowed;
+    }
+
+    #examWarning {
+      color: #f87171;
+      font-size: 13px;
+      min-height: 18px;
+      margin-top: 4px;
+    }
+
+    /* --- Odpowiedzi (quiz i egzamin) --- */
+    .answers button {
+      width: 100%;
+      padding: 12px;
+      margin: 8px 0;
+      border: none;
+      border-radius: 10px;
+      background: #334155;
+      color: white;
+      font-size: 16px;
+      cursor: pointer;
+      transition: 0.2s;
+    }
+
+    .answers button:hover:not(:disabled) {
+      background: #475569;
+    }
+
+    .answers button:disabled {
+      cursor: default;
+    }
+
+    .correct {
+      background: #16a34a !important;
+    }
+
+    .wrong {
+      background: #dc2626 !important;
+    }
+
+    #result, #examResult {
+      margin-top: 15px;
+      font-weight: bold;
+      min-height: 20px;
+    }
+
+    .score {
+      margin-top: 10px;
+      font-size: 14px;
+      color: #94a3b8;
+    }
+
+    .hidden {
+      display: none;
+    }
+
+    #backBtn, #fiszkaBackBtn, #examBackBtn {
+      margin-top: 15px;
+      padding: 8px 14px;
+      border: none;
+      border-radius: 8px;
+      background: #475569;
+      color: white;
+      cursor: pointer;
+      width: 100%;
+    }
+
+    #nextBtn, #examNextBtn {
+      width: 100%;
+      padding: 12px;
+      margin-top: 10px;
+      border: none;
+      border-radius: 10px;
+      background: #2563eb;
+      color: white;
+      font-size: 16px;
+      font-weight: bold;
+      cursor: pointer;
+    }
+
+    #nextBtn:hover, #examNextBtn:hover {
+      background: #1d4ed8;
+    }
+
+    /* --- Fiszki --- */
+    .fiszka-card {
+      background: #0f172a;
+      border: 2px solid #2563eb;
+      border-radius: 14px;
+      padding: 30px 20px;
+      min-height: 120px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      text-align: center;
+      font-size: 19px;
+      font-weight: 500;
+      line-height: 1.5;
+    }
+
+    .fiszki-nav {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 10px;
+      margin-top: 15px;
+    }
+
+    .fiszki-nav button {
+      flex: 1;
+      padding: 12px;
+      border: none;
+      border-radius: 10px;
+      background: #2563eb;
+      color: white;
+      font-size: 15px;
+      cursor: pointer;
+      transition: 0.2s;
+    }
+
+    .fiszki-nav button:hover {
+      background: #1d4ed8;
+    }
+
+    #fiszkaCounter {
+      font-size: 14px;
+      color: #94a3b8;
+      white-space: nowrap;
+    }
+
+    #fiszkaShuffleBtn {
+      margin-top: 10px;
+      width: 100%;
+      padding: 10px;
+      border: none;
+      border-radius: 10px;
+      background: #334155;
+      color: #e2e8f0;
+      font-size: 14px;
+      cursor: pointer;
+    }
+
+    #fiszkaShuffleBtn:hover {
+      background: #475569;
+    }
+  </style>
+</head>
+
+<body>
+
+<div class="container">
+
+  <div id="modeSwitch">
+    <button id="modeQuizBtn" class="mode-btn active">Quiz</button>
+    <button id="modeFiszkiBtn" class="mode-btn">Fiszki</button>
+    <button id="modeExamBtn" class="mode-btn">Egzamin</button>
+  </div>
+
+  <!-- ===================== QUIZ ===================== -->
+  <div id="quizMode">
+
+    <h2 id="categoriesTitle">Wybierz dział</h2>
+    <div id="categories"></div>
+
+    <div id="quizArea" class="hidden">
+      <h2 id="question">Ładowanie...</h2>
+      <div id="answers" class="answers"></div>
+      <p id="result"></p>
+      <button id="nextBtn" class="hidden">Następne pytanie →</button>
+      <p class="score">Wynik: <span id="score">0</span></p>
+      <button id="backBtn">← Wróć do działów</button>
+    </div>
+
+  </div>
+
+  <!-- ===================== FISZKI ===================== -->
+  <div id="fiszkiMode" class="hidden">
+
+    <h2 id="fiszkiCategoriesTitle">Wybierz dział</h2>
+    <div id="fiszkiCategories"></div>
+
+    <div id="fiszkiCardArea" class="hidden">
+      <div id="fiszkaCard" class="fiszka-card">Ładowanie...</div>
+      <div class="fiszki-nav">
+        <button id="fiszkaPrevBtn">← Poprzednia</button>
+        <span id="fiszkaCounter">1/1</span>
+        <button id="fiszkaNextBtn">Następna →</button>
+      </div>
+      <button id="fiszkaShuffleBtn">🔀 Losuj kolejność</button>
+      <button id="fiszkaBackBtn">← Wróć do działów</button>
+    </div>
+
+  </div>
+
+  <!-- ===================== EGZAMIN ===================== -->
+  <div id="examMode" class="hidden">
+
+    <div id="examSetup">
+      <h2>Wybierz kategorie do egzaminu</h2>
+      <div id="examCategories"></div>
+      <button id="examSelectAllBtn">Zaznacz wszystkie</button>
+      <button id="examStartBtn" disabled>Rozpocznij egzamin (25 pytań)</button>
+      <p id="examWarning"></p>
+    </div>
+
+    <div id="examArea" class="hidden">
+      <h2 id="examQuestion">Ładowanie...</h2>
+      <div id="examAnswers" class="answers"></div>
+      <p id="examResult"></p>
+      <button id="examNextBtn" class="hidden">Następne pytanie →</button>
+      <p class="score">Wynik: <span id="examScore">0</span> / <span id="examTotalLabel">25</span></p>
+      <button id="examBackBtn">← Zakończ i wróć do wyboru kategorii</button>
+    </div>
+
+  </div>
+
+</div>
+
+<script>
+
+/* ============================================================
+   PRZELACZANIE TRYBOW
+   ============================================================ */
+const modeQuizBtn = document.getElementById("modeQuizBtn");
+const modeFiszkiBtn = document.getElementById("modeFiszkiBtn");
+const modeExamBtn = document.getElementById("modeExamBtn");
+const quizModeDiv = document.getElementById("quizMode");
+const fiszkiModeDiv = document.getElementById("fiszkiMode");
+const examModeDiv = document.getElementById("examMode");
+
+function setActiveMode(activeBtn, activeDiv) {
+  [modeQuizBtn, modeFiszkiBtn, modeExamBtn].forEach(b => b.classList.remove("active"));
+  [quizModeDiv, fiszkiModeDiv, examModeDiv].forEach(d => d.classList.add("hidden"));
+  activeBtn.classList.add("active");
+  activeDiv.classList.remove("hidden");
+}
+
+modeQuizBtn.onclick = () => setActiveMode(modeQuizBtn, quizModeDiv);
+modeFiszkiBtn.onclick = () => setActiveMode(modeFiszkiBtn, fiszkiModeDiv);
+modeExamBtn.onclick = () => setActiveMode(modeExamBtn, examModeDiv);
+
+/* ============================================================
+   WSPOLNE NARZEDZIA
+   ============================================================ */
+function shuffleArray(array) {
+  const arr = array.slice();
+  for (let i = arr.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [arr[i], arr[j]] = [arr[j], arr[i]];
+  }
+  return arr;
+}
+
+/* ============================================================
+   QUIZ
+   ============================================================ */
+let questions = [];
+let shuffled = [];
+let currentIndex = 0;
+let current = null;
+let score = 0;
+
+async function loadQuestions() {
+  const res = await fetch("questions.json");
+  questions = await res.json();
+  createCategories();
+  createExamCategories();
+}
+
+function createCategories() {
+  const categories = [...new Set(questions.map(q => q.category))];
+
+  const div = document.getElementById("categories");
+  div.innerHTML = "";
+
+  categories.forEach(category => {
+    const btn = document.createElement("button");
+    btn.innerText = category;
+    btn.onclick = () => startQuiz(category);
+    div.appendChild(btn);
+  });
+}
+
+function startQuiz(category) {
+  document.getElementById("categoriesTitle").classList.add("hidden");
+  document.getElementById("categories").classList.add("hidden");
+  document.getElementById("quizArea").classList.remove("hidden");
+
+  shuffled = shuffleArray(
+    questions.filter(q => q.category === category)
+  );
+
+  currentIndex = 0;
+  score = 0;
+  document.getElementById("score").innerText = score;
+
+  nextQuestion();
+}
+
+function nextQuestion() {
+  document.getElementById("nextBtn").classList.add("hidden");
+
+  if (currentIndex >= shuffled.length) {
+    document.getElementById("question").innerText = "Koniec działu 🎉";
+    document.getElementById("answers").innerHTML = "";
+    document.getElementById("result").innerText =
+      "Twój wynik: " + score + " / " + shuffled.length;
+    return;
+  }
+
+  current = shuffled[currentIndex];
+  currentIndex++;
+
+  document.getElementById("result").innerText = "";
+  document.getElementById("question").innerText = current.question;
+
+  const answers = document.getElementById("answers");
+  answers.innerHTML = "";
+
+  current.answers.forEach((answer, index) => {
+    const btn = document.createElement("button");
+    btn.innerText = answer;
+    btn.onclick = () => checkAnswer(index);
+    answers.appendChild(btn);
+  });
+}
+
+function checkAnswer(index) {
+  const buttons = document.querySelectorAll("#answers button");
+
+  buttons.forEach((b, i) => {
+    b.disabled = true;
+    if (i === current.correct) b.classList.add("correct");
+    if (i === index && index !== current.correct) b.classList.add("wrong");
+  });
+
+  if (index === current.correct) {
+    document.getElementById("result").innerText = "Dobrze!";
+    score++;
+  } else {
+    document.getElementById("result").innerText =
+      "Źle. Poprawna: " + current.answers[current.correct];
+  }
+
+  document.getElementById("score").innerText = score;
+  document.getElementById("nextBtn").classList.remove("hidden");
+}
+
+document.getElementById("nextBtn").onclick = nextQuestion;
+
+document.getElementById("backBtn").onclick = () => {
+  document.getElementById("categoriesTitle").classList.remove("hidden");
+  document.getElementById("categories").classList.remove("hidden");
+  document.getElementById("quizArea").classList.add("hidden");
+  createCategories();
+};
+
+/* ============================================================
+   FISZKI
+   ============================================================ */
+let fiszki = [];
+let fiszkiAktywne = [];
+let fiszkaIndex = 0;
+
+async function loadFiszki() {
+  const res = await fetch("fiszki.json");
+  fiszki = await res.json();
+  createFiszkiCategories();
+}
+
+function createFiszkiCategories() {
+  const categories = [...new Set(fiszki.map(f => f.category))];
+
+  const div = document.getElementById("fiszkiCategories");
+  div.innerHTML = "";
+
+  categories.forEach(category => {
+    const btn = document.createElement("button");
+    btn.innerText = category;
+    btn.onclick = () => startFiszki(category);
+    div.appendChild(btn);
+  });
+}
+
+function startFiszki(category) {
+  document.getElementById("fiszkiCategoriesTitle").classList.add("hidden");
+  document.getElementById("fiszkiCategories").classList.add("hidden");
+  document.getElementById("fiszkiCardArea").classList.remove("hidden");
+
+  fiszkiAktywne = fiszki.filter(f => f.category === category);
+  fiszkaIndex = 0;
+
+  showFiszka();
+}
+
+function showFiszka() {
+  const card = document.getElementById("fiszkaCard");
+  const counter = document.getElementById("fiszkaCounter");
+
+  if (fiszkiAktywne.length === 0) {
+    card.innerText = "Brak fiszek w tym dziale.";
+    counter.innerText = "0/0";
+    return;
+  }
+
+  card.innerText = fiszkiAktywne[fiszkaIndex].text;
+  counter.innerText = (fiszkaIndex + 1) + "/" + fiszkiAktywne.length;
+}
+
+document.getElementById("fiszkaNextBtn").onclick = () => {
+  if (fiszkiAktywne.length === 0) return;
+  fiszkaIndex = (fiszkaIndex + 1) % fiszkiAktywne.length;
+  showFiszka();
+};
+
+document.getElementById("fiszkaPrevBtn").onclick = () => {
+  if (fiszkiAktywne.length === 0) return;
+  fiszkaIndex = (fiszkaIndex - 1 + fiszkiAktywne.length) % fiszkiAktywne.length;
+  showFiszka();
+};
+
+document.getElementById("fiszkaShuffleBtn").onclick = () => {
+  fiszkiAktywne = shuffleArray(fiszkiAktywne);
+  fiszkaIndex = 0;
+  showFiszka();
+};
+
+document.getElementById("fiszkaBackBtn").onclick = () => {
+  document.getElementById("fiszkiCategoriesTitle").classList.remove("hidden");
+  document.getElementById("fiszkiCategories").classList.remove("hidden");
+  document.getElementById("fiszkiCardArea").classList.add("hidden");
+  createFiszkiCategories();
+};
+
+/* ============================================================
+   EGZAMIN
+   ============================================================ */
+const EXAM_LENGTH = 25;
+
+let examShuffled = [];
+let examIndex = 0;
+let examCurrent = null;
+let examScoreVal = 0;
+
+function createExamCategories() {
+  const categories = [...new Set(questions.map(q => q.category))];
+  const div = document.getElementById("examCategories");
+  div.innerHTML = "";
+
+  categories.forEach(category => {
+    const row = document.createElement("div");
+    row.className = "exam-cat-row";
+
+    const checkbox = document.createElement("input");
+    checkbox.type = "checkbox";
+    checkbox.value = category;
+    checkbox.id = "exam-cat-" + category.replace(/\s+/g, "-");
+    checkbox.onchange = updateExamStartButton;
+
+    const label = document.createElement("label");
+    label.htmlFor = checkbox.id;
+    label.innerText = category;
+
+    row.appendChild(checkbox);
+    row.appendChild(label);
+    row.onclick = (e) => {
+      if (e.target !== checkbox) {
+        checkbox.checked = !checkbox.checked;
+        updateExamStartButton();
+      }
+    };
+
+    div.appendChild(row);
+  });
+}
+
+function getSelectedExamCategories() {
+  return [...document.querySelectorAll("#examCategories input[type=checkbox]:checked")]
+    .map(cb => cb.value);
+}
+
+function updateExamStartButton() {
+  const selected = getSelectedExamCategories();
+  document.getElementById("examStartBtn").disabled = selected.length === 0;
+  document.getElementById("examWarning").innerText = "";
+}
+
+document.getElementById("examSelectAllBtn").onclick = () => {
+  const checkboxes = document.querySelectorAll("#examCategories input[type=checkbox]");
+  const allChecked = [...checkboxes].every(cb => cb.checked);
+  checkboxes.forEach(cb => cb.checked = !allChecked);
+  updateExamStartButton();
+};
+
+document.getElementById("examStartBtn").onclick = () => {
+  const selectedCategories = getSelectedExamCategories();
+
+  if (selectedCategories.length === 0) {
+    document.getElementById("examWarning").innerText = "Wybierz co najmniej jedną kategorię.";
+    return;
+  }
+
+  const pool = questions.filter(q => selectedCategories.includes(q.category));
+
+  if (pool.length === 0) {
+    document.getElementById("examWarning").innerText = "Brak pytań w wybranych kategoriach.";
+    return;
+  }
+
+  examShuffled = shuffleArray(pool).slice(0, EXAM_LENGTH);
+  examIndex = 0;
+  examScoreVal = 0;
+
+  document.getElementById("examScore").innerText = examScoreVal;
+  document.getElementById("examTotalLabel").innerText = examShuffled.length;
+
+  document.getElementById("examSetup").classList.add("hidden");
+  document.getElementById("examArea").classList.remove("hidden");
+
+  examNextQuestion();
+};
+
+function examNextQuestion() {
+  document.getElementById("examNextBtn").classList.add("hidden");
+
+  if (examIndex >= examShuffled.length) {
+    document.getElementById("examQuestion").innerText = "Koniec egzaminu 🎓";
+    document.getElementById("examAnswers").innerHTML = "";
+    document.getElementById("examResult").innerText =
+      "Twój wynik: " + examScoreVal + " / " + examShuffled.length;
+    return;
+  }
+
+  examCurrent = examShuffled[examIndex];
+  examIndex++;
+
+  document.getElementById("examResult").innerText = "";
+  document.getElementById("examQuestion").innerText = examCurrent.question;
+
+  const answers = document.getElementById("examAnswers");
+  answers.innerHTML = "";
+
+  examCurrent.answers.forEach((answer, index) => {
+    const btn = document.createElement("button");
+    btn.innerText = answer;
+    btn.onclick = () => checkExamAnswer(index);
+    answers.appendChild(btn);
+  });
+}
+
+function checkExamAnswer(index) {
+  const buttons = document.querySelectorAll("#examAnswers button");
+
+  buttons.forEach((b, i) => {
+    b.disabled = true;
+    if (i === examCurrent.correct) b.classList.add("correct");
+    if (i === index && index !== examCurrent.correct) b.classList.add("wrong");
+  });
+
+  if (index === examCurrent.correct) {
+    document.getElementById("examResult").innerText = "Dobrze!";
+    examScoreVal++;
+  } else {
+    document.getElementById("examResult").innerText =
+      "Źle. Poprawna: " + examCurrent.answers[examCurrent.correct];
+  }
+
+  document.getElementById("examScore").innerText = examScoreVal;
+  document.getElementById("examNextBtn").classList.remove("hidden");
+}
+
+document.getElementById("examNextBtn").onclick = examNextQuestion;
+
+document.getElementById("examBackBtn").onclick = () => {
+  document.getElementById("examArea").classList.add("hidden");
+  document.getElementById("examSetup").classList.remove("hidden");
+};
+
+/* ============================================================
+   START
+   ============================================================ */
+loadQuestions();
+loadFiszki();
+
+</script>
+
+</body>
+</html>
