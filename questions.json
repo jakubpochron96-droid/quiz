@@ -1,0 +1,35 @@
+[
+  {
+    "category": "Anatomia",
+    "question": "Ile kości ma dorosły człowiek?",
+    "answers": [
+      "206",
+      "201",
+      "210",
+      "198"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Anatomia",
+    "question": "Ile komór ma serce?",
+    "answers": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "correct": 2
+  },
+  {
+    "category": "Fizjologia",
+    "question": "Jaki gaz jest transportowany przez hemoglobinę?",
+    "answers": [
+      "Tlen",
+      "Azot",
+      "Hel",
+      "Wodór"
+    ],
+    "correct": 0
+  }
+]
