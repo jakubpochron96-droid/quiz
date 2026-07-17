@@ -1,0 +1,574 @@
+[
+  {
+    "category": "Podstawowe zabiegi resuscytacyjne",
+    "question": "Jaka jest prawidłowa częstotliwość uciśnięć klatki piersiowej podczas RKO?",
+    "answers": [
+      "60-80 na minutę",
+      "100-120 na minutę",
+      "140-160 na minutę",
+      "40-60 na minutę"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "Podstawowe zabiegi resuscytacyjne",
+    "question": "Na jaką głębokość należy uciskać klatkę piersiową dorosłego podczas RKO?",
+    "answers": [
+      "1-2 cm",
+      "3-4 cm",
+      "5-6 cm",
+      "7-9 cm"
+    ],
+    "correct": 2
+  },
+  {
+    "category": "Podstawowe zabiegi resuscytacyjne",
+    "question": "Jaki jest stosunek uciśnięć klatki piersiowej do oddechów ratowniczych u dorosłych?",
+    "answers": [
+      "15:2",
+      "30:2",
+      "5:1",
+      "10:1"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "Podstawowe zabiegi resuscytacyjne",
+    "question": "Ile wynosi europejski numer alarmowy?",
+    "answers": [
+      "911",
+      "999",
+      "112",
+      "997"
+    ],
+    "correct": 2
+  },
+  {
+    "category": "Podstawowe zabiegi resuscytacyjne",
+    "question": "Jakie są trzy kluczowe kroki ratowania życia według wytycznych ERC 2025?",
+    "answers": [
+      "Oceń – Zadzwoń – RKO",
+      "Sprawdź – Wezwij – Czekaj",
+      "Zbadaj – Zaopatrz – Transportuj",
+      "Zauważ – Zatrzymaj – Zawołaj"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Podstawowe zabiegi resuscytacyjne",
+    "question": "Co to jest \"oddech agonalny\"?",
+    "answers": [
+      "Prawidłowy, głęboki oddech",
+      "Oznaka, że poszkodowany jest zdrowy",
+      "Nieregularne, mimowolne sapanie mylone z oznaką życia",
+      "Oddech typowy dla dzieci"
+    ],
+    "correct": 2
+  },
+  {
+    "category": "Podstawowe zabiegi resuscytacyjne",
+    "question": "Co powinien zrobić świadek zdarzenia, jeśli nie jest przeszkolony w wykonywaniu oddechów ratowniczych?",
+    "answers": [
+      "Nie podejmować żadnych działań",
+      "Prowadzić RKO wyłącznie z uciskaniem klatki piersiowej",
+      "Czekać na pogotowie bez żadnych czynności",
+      "Wykonywać tylko oddechy ratownicze"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "Podstawowe zabiegi resuscytacyjne",
+    "question": "Ile procent osób z zatrzymaniem krążenia przeżywa, jeśli świadkowie zdarzenia podejmują działania (wg wytycznych ERC 2025)?",
+    "answers": [
+      "Około 1%",
+      "Około 15%",
+      "Około 50%",
+      "Około 90%"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "Podstawowe zabiegi resuscytacyjne",
+    "question": "Jak długo maksymalnie należy oceniać oddech poszkodowanego?",
+    "answers": [
+      "2 sekundy",
+      "10 sekund",
+      "30 sekund",
+      "1 minutę"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "AED",
+    "question": "Co oznacza skrót AED?",
+    "answers": [
+      "Automatyczny Elektryczny Defibrylator",
+      "Automatyczny Defibrylator Zewnętrzny",
+      "Aparat do Elektrokardiografii Dziecięcej",
+      "Awaryjny Element Diagnostyczny"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "AED",
+    "question": "O ile procent zmniejsza się szansa na przeżycie z każdą minutą opóźnienia defibrylacji?",
+    "answers": [
+      "O 1%",
+      "O 10%",
+      "O 25%",
+      "O 50%"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "AED",
+    "question": "Czy AED może omyłkowo wykonać defibrylację u osoby, która jej nie potrzebuje?",
+    "answers": [
+      "Tak, zawsze",
+      "Nie, AED nie wyzwoli wyładowania, jeśli nie wykryje odpowiednich warunków",
+      "Tylko u dzieci",
+      "Tylko przy niskiej baterii"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "AED",
+    "question": "Gdzie zazwyczaj umieszcza się elektrody AED u osoby dorosłej?",
+    "answers": [
+      "Obie na klatce piersiowej po tej samej stronie",
+      "Jedną poniżej prawego obojczyka, drugą po lewej stronie pod pachą",
+      "Obie na brzuchu",
+      "Jedną na czole, drugą na plecach"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "AED",
+    "question": "Co należy zrobić natychmiast po wykonaniu defibrylacji?",
+    "answers": [
+      "Sprawdzić puls przez minutę",
+      "Odczekać na instrukcje przez 30 sekund",
+      "Natychmiast wrócić do uciskania klatki piersiowej",
+      "Wyłączyć AED"
+    ],
+    "correct": 2
+  },
+  {
+    "category": "AED",
+    "question": "Jaki tryb AED należy aktywować u dzieci poniżej 25 kg (do ok. 8 roku życia), jeśli jest dostępny?",
+    "answers": [
+      "Tryb nocny",
+      "Tryb pediatryczny",
+      "Tryb manualny",
+      "Tryb testowy"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "Zabiegi resuscytacyjne u dzieci",
+    "question": "Ile oddechów ratowniczych należy wykonać jako pierwsze u dziecka przed rozpoczęciem uciśnięć klatki piersiowej?",
+    "answers": [
+      "1",
+      "2",
+      "5",
+      "10"
+    ],
+    "correct": 2
+  },
+  {
+    "category": "Zabiegi resuscytacyjne u dzieci",
+    "question": "Jaką technikę uciśnięć klatki piersiowej zaleca ERC u niemowląt?",
+    "answers": [
+      "Jedną ręką",
+      "Dwoma kciukami z objęciem klatki piersiowej",
+      "Pięścią",
+      "Łokciem"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "Zabiegi resuscytacyjne u dzieci",
+    "question": "Do jakiego wieku dziecko określa się jako \"niemowlę\" według wytycznych ERC 2025?",
+    "answers": [
+      "Do ukończenia 1. roku życia",
+      "Do ukończenia 3. roku życia",
+      "Do ukończenia 6 miesięcy",
+      "Do ukończenia 2 lat"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Zabiegi resuscytacyjne u dzieci",
+    "question": "Co oznacza skrót ZOK stosowany do szybkiej oceny stanu dziecka?",
+    "answers": [
+      "Zachowanie, Oddychanie, Kolor powłok skórnych",
+      "Zdrowie, Odporność, Kondycja",
+      "Zatrzymanie, Ocena, Kontrola",
+      "Zaopatrzenie, Obserwacja, Kontakt"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Zabiegi resuscytacyjne u dzieci",
+    "question": "Jakie są najczęstsze przyczyny zatrzymania krążenia wśród nastolatków?",
+    "answers": [
+      "Choroby genetyczne serca",
+      "Urazy fizyczne, zatrucia i próby samobójcze",
+      "Infekcje wirusowe",
+      "Wady wrodzone"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "Zabiegi resuscytacyjne u dzieci",
+    "question": "Jaki jest stosunek uciśnięć do oddechów w RKO u dzieci, gdy ratownik jest przeszkolony w PBLS?",
+    "answers": [
+      "30:2",
+      "15:2",
+      "5:1",
+      "10:2"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "Resuscytacja noworodków",
+    "question": "Ile czasu należy odczekać przed zaciśnięciem pępowiny u noworodka?",
+    "answers": [
+      "Co najmniej 60 sekund",
+      "Natychmiast po urodzeniu",
+      "5 minut",
+      "10 sekund"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Resuscytacja noworodków",
+    "question": "Jak nazywa się pierwsza minuta po urodzeniu, kluczowa dla interwencji ratujących życie noworodka?",
+    "answers": [
+      "Złota minuta",
+      "Krytyczna godzina",
+      "Pierwsza faza",
+      "Minuta zerowa"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Resuscytacja noworodków",
+    "question": "Czy większość noworodków wymaga zaawansowanej pomocy medycznej po urodzeniu?",
+    "answers": [
+      "Tak, wszystkie",
+      "Nie, większość adaptuje się naturalnie",
+      "Tak, połowa",
+      "Tylko wcześniaki"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "Sytuacje szczególne",
+    "question": "Co oznaczają litery 4H w kontekście odwracalnych przyczyn zatrzymania krążenia?",
+    "answers": [
+      "Hipoksja, hipowolemia, hipo/hiperkaliemia, hipo/hipertermia",
+      "Historia, higiena, hormony, hemodynamika",
+      "Hałas, hipnoza, hemoliza, hipoglikemia",
+      "Hipoglikemia, hipertensja, hipoteza, hemostaza"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Sytuacje szczególne",
+    "question": "Co oznaczają litery 4T w kontekście odwracalnych przyczyn zatrzymania krążenia?",
+    "answers": [
+      "Toksyny, tamponada, odma prężna, zakrzepica",
+      "Terapia, temperatura, transport, transfuzja",
+      "Tlen, tętno, trauma, tachykardia",
+      "Tarczyca, tętnica, toksykologia, trombocyty"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Sytuacje szczególne",
+    "question": "Ile oddechów ratowniczych wykonuje się jako pierwsze u osoby, która utonęła i nie oddycha?",
+    "answers": [
+      "0",
+      "2",
+      "5",
+      "10"
+    ],
+    "correct": 2
+  },
+  {
+    "category": "Sytuacje szczególne",
+    "question": "Co jest główną przyczyną zgonów przy zasypaniu przez lawinę?",
+    "answers": [
+      "Hipotermia",
+      "Asfiksja (uduszenie)",
+      "Urazy głowy",
+      "Odwodnienie"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "Sytuacje szczególne",
+    "question": "Jakie objawy sugerują przedawkowanie opioidów?",
+    "answers": [
+      "Przyspieszony oddech i rozszerzone źrenice",
+      "Wolny/nieregularny oddech, senność, zwężone źrenice",
+      "Gorączka i drgawki",
+      "Przyspieszone tętno i pobudzenie"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "Sytuacje szczególne",
+    "question": "Jaki lek podaje się w przypadku podejrzenia przedawkowania opioidów?",
+    "answers": [
+      "Adrenalinę",
+      "Nalokson",
+      "Aspirynę",
+      "Nitroglicerynę"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "Pierwsza pomoc",
+    "question": "Co oznacza schemat ABCDE stosowany w pierwszej pomocy?",
+    "answers": [
+      "Airway, Breathing, Circulation, Disability, Exposure",
+      "Alarm, Bezpieczeństwo, Czynności, Diagnoza, Ewakuacja",
+      "Assessment, Bandage, Call, Deliver, Evaluate",
+      "Airway, Blood, Consciousness, Diagnosis, Emergency"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Pierwsza pomoc",
+    "question": "Jaką dawkę adrenaliny podaje się domięśniowo w przypadku ciężkiej reakcji alergicznej (anafilaksji)?",
+    "answers": [
+      "0,1 mg",
+      "0,5 mg",
+      "2 mg",
+      "5 mg"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "Pierwsza pomoc",
+    "question": "Jakie działania podejmuje się w przypadku zadławienia u osoby przytomnej?",
+    "answers": [
+      "Tylko uciśnięcia klatki piersiowej",
+      "Zachęcanie do kaszlu, uderzenia w plecy i uciśnięcia nadbrzusza",
+      "Natychmiastowa RKO",
+      "Podanie wody do picia"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "Pierwsza pomoc",
+    "question": "Jak należy ułożyć osobę nieprzytomną, oddychającą prawidłowo, bez urazu?",
+    "answers": [
+      "Na plecach z uniesionymi nogami",
+      "W pozycji bezpiecznej (na boku)",
+      "W pozycji siedzącej",
+      "Na brzuchu"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "Pierwsza pomoc",
+    "question": "Co należy podać dorosłemu z podejrzeniem zawału serca (bólem w klatce piersiowej), jeśli nie jest uczulony?",
+    "answers": [
+      "Ibuprofen",
+      "Aspirynę do żucia",
+      "Paracetamol",
+      "Antybiotyk"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "Pierwsza pomoc",
+    "question": "Czy poszkodowanego z podejrzeniem urazu należy układać w pozycji bezpiecznej?",
+    "answers": [
+      "Tak, zawsze",
+      "Nie, poszkodowanych z urazem lub nieprawidłowym oddechem NIE układa się w pozycji bezpiecznej",
+      "Tylko dzieci",
+      "Tylko osoby starsze"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "Epidemiologia",
+    "question": "Jaki procent pozaszpitalnych zatrzymań krążenia dochodzi w domach prywatnych?",
+    "answers": [
+      "Do 20%",
+      "Do 50%",
+      "Do 70%",
+      "Do 95%"
+    ],
+    "correct": 2
+  },
+  {
+    "category": "Epidemiologia",
+    "question": "Jaki jest średni wiek ofiar pozaszpitalnego zatrzymania krążenia w Europie?",
+    "answers": [
+      "Około 35 lat",
+      "Około 50 lat",
+      "Około 67 lat",
+      "Około 85 lat"
+    ],
+    "correct": 2
+  },
+  {
+    "category": "Epidemiologia",
+    "question": "Jaka jest przeżywalność po pozaszpitalnym zatrzymaniu krążenia w Europie (średnio)?",
+    "answers": [
+      "Około 0,5%",
+      "Około 7,5%",
+      "Około 25%",
+      "Około 50%"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "Epidemiologia",
+    "question": "U jakiego odsetka młodych ofiar (poniżej 50 r.ż.) nagłego zatrzymania krążenia wykryto genetyczne przyczyny?",
+    "answers": [
+      "Do 5%",
+      "Do 25%",
+      "Do 60%",
+      "Do 90%"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "Systemy ratujące życie",
+    "question": "W jakim wieku dzieci mogą zacząć uczyć się wzywania pomocy według wytycznych ERC 2025?",
+    "answers": [
+      "Już w wieku 4 lat",
+      "Dopiero w wieku 10 lat",
+      "Dopiero w liceum",
+      "Dopiero na studiach medycznych"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Systemy ratujące życie",
+    "question": "Jak nazywa się kampania ERC obchodzona 16 października?",
+    "answers": [
+      "Dzień Pierwszej Pomocy",
+      "Światowy Dzień Przywracania Czynności Serca (WRAH)",
+      "Międzynarodowy Dzień Kardiologii",
+      "Dzień Dawcy Narządów"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "Systemy ratujące życie",
+    "question": "Co to są \"pierwsi ratownicy\" (ang. first responders)?",
+    "answers": [
+      "Wyłącznie lekarze pogotowia",
+      "Przeszkoleni ochotnicy z społeczeństwa, wysyłani do pomocy przez centrum powiadamiania",
+      "Wyłącznie strażacy",
+      "Osoby przypadkowe bez żadnego przeszkolenia"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "Zaawansowane zabiegi resuscytacyjne",
+    "question": "Dla kogo przeznaczone są wytyczne dotyczące zaawansowanych zabiegów resuscytacyjnych (ALS)?",
+    "answers": [
+      "Dla każdego świadka zdarzenia",
+      "Dla pracowników ochrony zdrowia",
+      "Wyłącznie dla dzieci",
+      "Dla kierowców"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "Zaawansowane zabiegi resuscytacyjne",
+    "question": "Jaka jest trzecia najczęstsza przyczyna zgonów w Europie według wytycznych ERC 2025?",
+    "answers": [
+      "Nowotwory",
+      "Zatrzymanie krążenia",
+      "Wypadki komunikacyjne",
+      "Infekcje"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "Opieka poresuscytacyjna",
+    "question": "Jaką docelową temperaturę należy utrzymywać u pacjentów w śpiączce po ROSC, aby zapobiegać gorączce?",
+    "answers": [
+      "do 34°C",
+      "do 37,5°C",
+      "do 39°C",
+      "do 41°C"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "Opieka poresuscytacyjna",
+    "question": "Co oznacza skrót ROSC?",
+    "answers": [
+      "Return of spontaneous circulation - powrót spontanicznego krążenia",
+      "Rate of survival after cardiac arrest",
+      "Resuscitation outcome scoring system",
+      "Risk of secondary cardiac arrest"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Opieka poresuscytacyjna",
+    "question": "Ile godzin zazwyczaj trzeba odczekać przed dokładniejszą oceną rokowania neurologicznego po zatrzymaniu krążenia?",
+    "answers": [
+      "6 godzin",
+      "24 godziny",
+      "72 lub więcej godzin",
+      "Rokowanie stawia się natychmiast"
+    ],
+    "correct": 2
+  },
+  {
+    "category": "Etyka w resuscytacji",
+    "question": "Co oznacza skrót DNACPR?",
+    "answers": [
+      "Do Not Attempt Cardiopulmonary Resuscitation - decyzja o niepodejmowaniu RKO",
+      "Do Nothing And Call Paramedics Rapidly",
+      "Death Notification And Cardiac Pulmonary Report",
+      "Direct Notification After Cardiac Prevention Response"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Etyka w resuscytacji",
+    "question": "Czy wytyczne ERC 2025 zalecają umożliwienie rodzinie obecności podczas RKO?",
+    "answers": [
+      "Nie, jest to zabronione",
+      "Tak, jeśli rodzina sobie tego życzy, przy wsparciu członka zespołu",
+      "Tylko w przypadku dzieci",
+      "Tylko za zgodą sądu"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "Edukacja w resuscytacji",
+    "question": "Jaka metoda szkoleniowa polega na krótkich, powtarzalnych cyklach ćwiczeń z natychmiastową informacją zwrotną?",
+    "answers": [
+      "Spaced learning",
+      "Rapid Cycle Deliberate Practice (RCDP)",
+      "Blended learning",
+      "Peer teaching"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "Edukacja w resuscytacji",
+    "question": "Ile osób przeszkolono w kampanii WRAH w latach 2018-2023?",
+    "answers": [
+      "Ponad 100 tysięcy",
+      "Ponad 1 milion",
+      "Ponad 12 milionów",
+      "Ponad 100 milionów"
+    ],
+    "correct": 2
+  }
+]
