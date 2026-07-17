@@ -1,0 +1,5744 @@
+[
+  {
+    "category": "Podstawowe zabiegi resuscytacyjne",
+    "question": "Jaka jest prawidłowa częstotliwość uciśnięć klatki piersiowej podczas RKO?",
+    "answers": [
+      "60-80 na minutę",
+      "100-120 na minutę",
+      "140-160 na minutę",
+      "40-60 na minutę"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "Podstawowe zabiegi resuscytacyjne",
+    "question": "Na jaką głębokość należy uciskać klatkę piersiową dorosłego podczas RKO?",
+    "answers": [
+      "1-2 cm",
+      "3-4 cm",
+      "5-6 cm",
+      "7-9 cm"
+    ],
+    "correct": 2
+  },
+  {
+    "category": "Podstawowe zabiegi resuscytacyjne",
+    "question": "Jaki jest stosunek uciśnięć klatki piersiowej do oddechów ratowniczych u dorosłych?",
+    "answers": [
+      "15:2",
+      "30:2",
+      "5:1",
+      "10:1"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "Podstawowe zabiegi resuscytacyjne",
+    "question": "Ile wynosi europejski numer alarmowy?",
+    "answers": [
+      "911",
+      "999",
+      "112",
+      "997"
+    ],
+    "correct": 2
+  },
+  {
+    "category": "Podstawowe zabiegi resuscytacyjne",
+    "question": "Jakie są trzy kluczowe kroki ratowania życia według wytycznych ERC 2025?",
+    "answers": [
+      "Oceń – Zadzwoń – RKO",
+      "Sprawdź – Wezwij – Czekaj",
+      "Zbadaj – Zaopatrz – Transportuj",
+      "Zauważ – Zatrzymaj – Zawołaj"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Podstawowe zabiegi resuscytacyjne",
+    "question": "Co to jest \"oddech agonalny\"?",
+    "answers": [
+      "Prawidłowy, głęboki oddech",
+      "Oznaka, że poszkodowany jest zdrowy",
+      "Nieregularne, mimowolne sapanie mylone z oznaką życia",
+      "Oddech typowy dla dzieci"
+    ],
+    "correct": 2
+  },
+  {
+    "category": "Podstawowe zabiegi resuscytacyjne",
+    "question": "Co powinien zrobić świadek zdarzenia, jeśli nie jest przeszkolony w wykonywaniu oddechów ratowniczych?",
+    "answers": [
+      "Nie podejmować żadnych działań",
+      "Prowadzić RKO wyłącznie z uciskaniem klatki piersiowej",
+      "Czekać na pogotowie bez żadnych czynności",
+      "Wykonywać tylko oddechy ratownicze"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "Podstawowe zabiegi resuscytacyjne",
+    "question": "Ile procent osób z zatrzymaniem krążenia przeżywa, jeśli świadkowie zdarzenia podejmują działania (wg wytycznych ERC 2025)?",
+    "answers": [
+      "Około 1%",
+      "Około 15%",
+      "Około 50%",
+      "Około 90%"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "Podstawowe zabiegi resuscytacyjne",
+    "question": "Jak długo maksymalnie należy oceniać oddech poszkodowanego?",
+    "answers": [
+      "2 sekundy",
+      "10 sekund",
+      "30 sekund",
+      "1 minutę"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "AED",
+    "question": "Co oznacza skrót AED?",
+    "answers": [
+      "Automatyczny Elektryczny Defibrylator",
+      "Automatyczny Defibrylator Zewnętrzny",
+      "Aparat do Elektrokardiografii Dziecięcej",
+      "Awaryjny Element Diagnostyczny"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "AED",
+    "question": "O ile procent zmniejsza się szansa na przeżycie z każdą minutą opóźnienia defibrylacji?",
+    "answers": [
+      "O 1%",
+      "O 10%",
+      "O 25%",
+      "O 50%"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "AED",
+    "question": "Czy AED może omyłkowo wykonać defibrylację u osoby, która jej nie potrzebuje?",
+    "answers": [
+      "Tak, zawsze",
+      "Nie, AED nie wyzwoli wyładowania, jeśli nie wykryje odpowiednich warunków",
+      "Tylko u dzieci",
+      "Tylko przy niskiej baterii"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "AED",
+    "question": "Gdzie zazwyczaj umieszcza się elektrody AED u osoby dorosłej?",
+    "answers": [
+      "Obie na klatce piersiowej po tej samej stronie",
+      "Jedną poniżej prawego obojczyka, drugą po lewej stronie pod pachą",
+      "Obie na brzuchu",
+      "Jedną na czole, drugą na plecach"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "AED",
+    "question": "Co należy zrobić natychmiast po wykonaniu defibrylacji?",
+    "answers": [
+      "Sprawdzić puls przez minutę",
+      "Odczekać na instrukcje przez 30 sekund",
+      "Natychmiast wrócić do uciskania klatki piersiowej",
+      "Wyłączyć AED"
+    ],
+    "correct": 2
+  },
+  {
+    "category": "AED",
+    "question": "Jaki tryb AED należy aktywować u dzieci poniżej 25 kg (do ok. 8 roku życia), jeśli jest dostępny?",
+    "answers": [
+      "Tryb nocny",
+      "Tryb pediatryczny",
+      "Tryb manualny",
+      "Tryb testowy"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "Zabiegi resuscytacyjne u dzieci",
+    "question": "Ile oddechów ratowniczych należy wykonać jako pierwsze u dziecka przed rozpoczęciem uciśnięć klatki piersiowej?",
+    "answers": [
+      "1",
+      "2",
+      "5",
+      "10"
+    ],
+    "correct": 2
+  },
+  {
+    "category": "Zabiegi resuscytacyjne u dzieci",
+    "question": "Jaką technikę uciśnięć klatki piersiowej zaleca ERC u niemowląt?",
+    "answers": [
+      "Jedną ręką",
+      "Dwoma kciukami z objęciem klatki piersiowej",
+      "Pięścią",
+      "Łokciem"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "Zabiegi resuscytacyjne u dzieci",
+    "question": "Do jakiego wieku dziecko określa się jako \"niemowlę\" według wytycznych ERC 2025?",
+    "answers": [
+      "Do ukończenia 1. roku życia",
+      "Do ukończenia 3. roku życia",
+      "Do ukończenia 6 miesięcy",
+      "Do ukończenia 2 lat"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Zabiegi resuscytacyjne u dzieci",
+    "question": "Co oznacza skrót ZOK stosowany do szybkiej oceny stanu dziecka?",
+    "answers": [
+      "Zachowanie, Oddychanie, Kolor powłok skórnych",
+      "Zdrowie, Odporność, Kondycja",
+      "Zatrzymanie, Ocena, Kontrola",
+      "Zaopatrzenie, Obserwacja, Kontakt"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Zabiegi resuscytacyjne u dzieci",
+    "question": "Jakie są najczęstsze przyczyny zatrzymania krążenia wśród nastolatków?",
+    "answers": [
+      "Choroby genetyczne serca",
+      "Urazy fizyczne, zatrucia i próby samobójcze",
+      "Infekcje wirusowe",
+      "Wady wrodzone"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "Zabiegi resuscytacyjne u dzieci",
+    "question": "Jaki jest stosunek uciśnięć do oddechów w RKO u dzieci, gdy ratownik jest przeszkolony w PBLS?",
+    "answers": [
+      "30:2",
+      "15:2",
+      "5:1",
+      "10:2"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "Resuscytacja noworodków",
+    "question": "Ile czasu należy odczekać przed zaciśnięciem pępowiny u noworodka?",
+    "answers": [
+      "Co najmniej 60 sekund",
+      "Natychmiast po urodzeniu",
+      "5 minut",
+      "10 sekund"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Resuscytacja noworodków",
+    "question": "Jak nazywa się pierwsza minuta po urodzeniu, kluczowa dla interwencji ratujących życie noworodka?",
+    "answers": [
+      "Złota minuta",
+      "Krytyczna godzina",
+      "Pierwsza faza",
+      "Minuta zerowa"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Resuscytacja noworodków",
+    "question": "Czy większość noworodków wymaga zaawansowanej pomocy medycznej po urodzeniu?",
+    "answers": [
+      "Tak, wszystkie",
+      "Nie, większość adaptuje się naturalnie",
+      "Tak, połowa",
+      "Tylko wcześniaki"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "Sytuacje szczególne",
+    "question": "Co oznaczają litery 4H w kontekście odwracalnych przyczyn zatrzymania krążenia?",
+    "answers": [
+      "Hipoksja, hipowolemia, hipo/hiperkaliemia, hipo/hipertermia",
+      "Historia, higiena, hormony, hemodynamika",
+      "Hałas, hipnoza, hemoliza, hipoglikemia",
+      "Hipoglikemia, hipertensja, hipoteza, hemostaza"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Sytuacje szczególne",
+    "question": "Co oznaczają litery 4T w kontekście odwracalnych przyczyn zatrzymania krążenia?",
+    "answers": [
+      "Toksyny, tamponada, odma prężna, zakrzepica",
+      "Terapia, temperatura, transport, transfuzja",
+      "Tlen, tętno, trauma, tachykardia",
+      "Tarczyca, tętnica, toksykologia, trombocyty"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Sytuacje szczególne",
+    "question": "Ile oddechów ratowniczych wykonuje się jako pierwsze u osoby, która utonęła i nie oddycha?",
+    "answers": [
+      "0",
+      "2",
+      "5",
+      "10"
+    ],
+    "correct": 2
+  },
+  {
+    "category": "Sytuacje szczególne",
+    "question": "Co jest główną przyczyną zgonów przy zasypaniu przez lawinę?",
+    "answers": [
+      "Hipotermia",
+      "Asfiksja (uduszenie)",
+      "Urazy głowy",
+      "Odwodnienie"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "Sytuacje szczególne",
+    "question": "Jakie objawy sugerują przedawkowanie opioidów?",
+    "answers": [
+      "Przyspieszony oddech i rozszerzone źrenice",
+      "Wolny/nieregularny oddech, senność, zwężone źrenice",
+      "Gorączka i drgawki",
+      "Przyspieszone tętno i pobudzenie"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "Sytuacje szczególne",
+    "question": "Jaki lek podaje się w przypadku podejrzenia przedawkowania opioidów?",
+    "answers": [
+      "Adrenalinę",
+      "Nalokson",
+      "Aspirynę",
+      "Nitroglicerynę"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "Pierwsza pomoc",
+    "question": "Co oznacza schemat ABCDE stosowany w pierwszej pomocy?",
+    "answers": [
+      "Airway, Breathing, Circulation, Disability, Exposure",
+      "Alarm, Bezpieczeństwo, Czynności, Diagnoza, Ewakuacja",
+      "Assessment, Bandage, Call, Deliver, Evaluate",
+      "Airway, Blood, Consciousness, Diagnosis, Emergency"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Pierwsza pomoc",
+    "question": "Jaką dawkę adrenaliny podaje się domięśniowo w przypadku ciężkiej reakcji alergicznej (anafilaksji)?",
+    "answers": [
+      "0,1 mg",
+      "0,5 mg",
+      "2 mg",
+      "5 mg"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "Pierwsza pomoc",
+    "question": "Jakie działania podejmuje się w przypadku zadławienia u osoby przytomnej?",
+    "answers": [
+      "Tylko uciśnięcia klatki piersiowej",
+      "Zachęcanie do kaszlu, uderzenia w plecy i uciśnięcia nadbrzusza",
+      "Natychmiastowa RKO",
+      "Podanie wody do picia"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "Pierwsza pomoc",
+    "question": "Jak należy ułożyć osobę nieprzytomną, oddychającą prawidłowo, bez urazu?",
+    "answers": [
+      "Na plecach z uniesionymi nogami",
+      "W pozycji bezpiecznej (na boku)",
+      "W pozycji siedzącej",
+      "Na brzuchu"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "Pierwsza pomoc",
+    "question": "Co należy podać dorosłemu z podejrzeniem zawału serca (bólem w klatce piersiowej), jeśli nie jest uczulony?",
+    "answers": [
+      "Ibuprofen",
+      "Aspirynę do żucia",
+      "Paracetamol",
+      "Antybiotyk"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "Pierwsza pomoc",
+    "question": "Czy poszkodowanego z podejrzeniem urazu należy układać w pozycji bezpiecznej?",
+    "answers": [
+      "Tak, zawsze",
+      "Nie, poszkodowanych z urazem lub nieprawidłowym oddechem NIE układa się w pozycji bezpiecznej",
+      "Tylko dzieci",
+      "Tylko osoby starsze"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "Epidemiologia",
+    "question": "Jaki procent pozaszpitalnych zatrzymań krążenia dochodzi w domach prywatnych?",
+    "answers": [
+      "Do 20%",
+      "Do 50%",
+      "Do 70%",
+      "Do 95%"
+    ],
+    "correct": 2
+  },
+  {
+    "category": "Epidemiologia",
+    "question": "Jaki jest średni wiek ofiar pozaszpitalnego zatrzymania krążenia w Europie?",
+    "answers": [
+      "Około 35 lat",
+      "Około 50 lat",
+      "Około 67 lat",
+      "Około 85 lat"
+    ],
+    "correct": 2
+  },
+  {
+    "category": "Epidemiologia",
+    "question": "Jaka jest przeżywalność po pozaszpitalnym zatrzymaniu krążenia w Europie (średnio)?",
+    "answers": [
+      "Około 0,5%",
+      "Około 7,5%",
+      "Około 25%",
+      "Około 50%"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "Epidemiologia",
+    "question": "U jakiego odsetka młodych ofiar (poniżej 50 r.ż.) nagłego zatrzymania krążenia wykryto genetyczne przyczyny?",
+    "answers": [
+      "Do 5%",
+      "Do 25%",
+      "Do 60%",
+      "Do 90%"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "Systemy ratujące życie",
+    "question": "W jakim wieku dzieci mogą zacząć uczyć się wzywania pomocy według wytycznych ERC 2025?",
+    "answers": [
+      "Już w wieku 4 lat",
+      "Dopiero w wieku 10 lat",
+      "Dopiero w liceum",
+      "Dopiero na studiach medycznych"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Systemy ratujące życie",
+    "question": "Jak nazywa się kampania ERC obchodzona 16 października?",
+    "answers": [
+      "Dzień Pierwszej Pomocy",
+      "Światowy Dzień Przywracania Czynności Serca (WRAH)",
+      "Międzynarodowy Dzień Kardiologii",
+      "Dzień Dawcy Narządów"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "Systemy ratujące życie",
+    "question": "Co to są \"pierwsi ratownicy\" (ang. first responders)?",
+    "answers": [
+      "Wyłącznie lekarze pogotowia",
+      "Przeszkoleni ochotnicy z społeczeństwa, wysyłani do pomocy przez centrum powiadamiania",
+      "Wyłącznie strażacy",
+      "Osoby przypadkowe bez żadnego przeszkolenia"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "Zaawansowane zabiegi resuscytacyjne",
+    "question": "Dla kogo przeznaczone są wytyczne dotyczące zaawansowanych zabiegów resuscytacyjnych (ALS)?",
+    "answers": [
+      "Dla każdego świadka zdarzenia",
+      "Dla pracowników ochrony zdrowia",
+      "Wyłącznie dla dzieci",
+      "Dla kierowców"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "Zaawansowane zabiegi resuscytacyjne",
+    "question": "Jaka jest trzecia najczęstsza przyczyna zgonów w Europie według wytycznych ERC 2025?",
+    "answers": [
+      "Nowotwory",
+      "Zatrzymanie krążenia",
+      "Wypadki komunikacyjne",
+      "Infekcje"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "Opieka poresuscytacyjna",
+    "question": "Jaką docelową temperaturę należy utrzymywać u pacjentów w śpiączce po ROSC, aby zapobiegać gorączce?",
+    "answers": [
+      "do 34°C",
+      "do 37,5°C",
+      "do 39°C",
+      "do 41°C"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "Opieka poresuscytacyjna",
+    "question": "Co oznacza skrót ROSC?",
+    "answers": [
+      "Return of spontaneous circulation - powrót spontanicznego krążenia",
+      "Rate of survival after cardiac arrest",
+      "Resuscitation outcome scoring system",
+      "Risk of secondary cardiac arrest"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Opieka poresuscytacyjna",
+    "question": "Ile godzin zazwyczaj trzeba odczekać przed dokładniejszą oceną rokowania neurologicznego po zatrzymaniu krążenia?",
+    "answers": [
+      "6 godzin",
+      "24 godziny",
+      "72 lub więcej godzin",
+      "Rokowanie stawia się natychmiast"
+    ],
+    "correct": 2
+  },
+  {
+    "category": "Etyka w resuscytacji",
+    "question": "Co oznacza skrót DNACPR?",
+    "answers": [
+      "Do Not Attempt Cardiopulmonary Resuscitation - decyzja o niepodejmowaniu RKO",
+      "Do Nothing And Call Paramedics Rapidly",
+      "Death Notification And Cardiac Pulmonary Report",
+      "Direct Notification After Cardiac Prevention Response"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Etyka w resuscytacji",
+    "question": "Czy wytyczne ERC 2025 zalecają umożliwienie rodzinie obecności podczas RKO?",
+    "answers": [
+      "Nie, jest to zabronione",
+      "Tak, jeśli rodzina sobie tego życzy, przy wsparciu członka zespołu",
+      "Tylko w przypadku dzieci",
+      "Tylko za zgodą sądu"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "Edukacja w resuscytacji",
+    "question": "Jaka metoda szkoleniowa polega na krótkich, powtarzalnych cyklach ćwiczeń z natychmiastową informacją zwrotną?",
+    "answers": [
+      "Spaced learning",
+      "Rapid Cycle Deliberate Practice (RCDP)",
+      "Blended learning",
+      "Peer teaching"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "Edukacja w resuscytacji",
+    "question": "Ile osób przeszkolono w kampanii WRAH w latach 2018-2023?",
+    "answers": [
+      "Ponad 100 tysięcy",
+      "Ponad 1 milion",
+      "Ponad 12 milionów",
+      "Ponad 100 milionów"
+    ],
+    "correct": 2
+  },
+  {
+    "category": "Leki",
+    "question": "Jaka jest dawka adrenaliny w zatrzymaniu krążenia u dorosłego (i.v./i.o.)?",
+    "answers": [
+      "0,1 mg",
+      "1 mg",
+      "3 mg",
+      "5 mg"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "Leki",
+    "question": "Jak często powtarza się dawkę adrenaliny podczas RKO?",
+    "answers": [
+      "Co 1-2 min",
+      "Co 3-5 min",
+      "Co 10 min",
+      "Tylko raz"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "Leki",
+    "question": "Jaka jest dawka adrenaliny domięśniowo we wstrząsie anafilaktycznym u dorosłego?",
+    "answers": [
+      "0,1 mg",
+      "0,3-0,5 mg",
+      "1 mg",
+      "2 mg"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "Leki",
+    "question": "W jakim stężeniu podaje się adrenalinę domięśniowo w anafilaksji?",
+    "answers": [
+      "1:1000 (1 mg/ml)",
+      "1:10 000",
+      "1:100",
+      "5%"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jakie jest główne wskazanie do podania adrenaliny w resuscytacji krążeniowo-oddechowej?",
+    "answers": [
+      "Bradykardia z zachowanym tętnem",
+      "Zatrzymanie krążenia (NZK)",
+      "Nadciśnienie tętnicze",
+      "Hipoglikemia"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "Leki",
+    "question": "Jaki jest mechanizm działania adrenaliny?",
+    "answers": [
+      "Agonista receptorów alfa i beta-adrenergicznych",
+      "Antagonista receptorów muskarynowych",
+      "Bloker kanału sodowego",
+      "Inhibitor ACE"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Które działanie niepożądane jest typowe po podaniu adrenaliny?",
+    "answers": [
+      "Bradykardia",
+      "Tachykardia i arytmie",
+      "Hipoglikemia",
+      "Senność"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "Leki",
+    "question": "Jaką drogą podania stosuje się adrenalinę we wstrząsie anafilaktycznym?",
+    "answers": [
+      "Domięśniowo w boczną powierzchnię uda",
+      "Dożylnie w bolusie 1 mg",
+      "Podskórnie w ramię",
+      "Doustnie"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Czy adrenalina jest bezpieczna u pacjentów z chorobą niedokrwienną serca w stanach zagrożenia życia?",
+    "answers": [
+      "Tak, korzyści przewyższają ryzyko w stanach zagrożenia życia",
+      "Nie, jest bezwzględnie przeciwwskazana",
+      "Zawsze podaje się połowę dawki",
+      "Nie ma to znaczenia"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Do jakiej grupy leków należy adrenalina?",
+    "answers": [
+      "Katecholaminy / sympatykomimetyki",
+      "Benzodiazepiny",
+      "NLPZ",
+      "Diuretyki"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jaka jest dawka amiodaronu w opornym na defibrylację VF/pVT (po 3. nieskutecznej defibrylacji)?",
+    "answers": [
+      "150 mg",
+      "300 mg",
+      "450 mg",
+      "600 mg"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "Leki",
+    "question": "W czym należy rozpuszczać amiodaron przed podaniem dożylnym?",
+    "answers": [
+      "0,9% NaCl",
+      "5% glukoza",
+      "Roztwór Ringera",
+      "Wodzie do wstrzykiwań"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "Leki",
+    "question": "Jaka jest dawka podtrzymująca amiodaronu, gdy VF/pVT nawraca po pierwszej dawce?",
+    "answers": [
+      "50 mg",
+      "150 mg",
+      "300 mg",
+      "brak dawki podtrzymującej"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "Leki",
+    "question": "Jakie jest główne wskazanie do podania amiodaronu w ratownictwie?",
+    "answers": [
+      "Bradykardia objawowa",
+      "Oporne na defibrylację VF/pVT i inne zaburzenia rytmu",
+      "Hipoglikemia",
+      "Wstrząs anafilaktyczny"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "Leki",
+    "question": "Jakiego innego leku antyarytmicznego nie należy stosować bezpośrednio po podaniu amiodaronu?",
+    "answers": [
+      "Atropiny",
+      "Lidokainy",
+      "Adrenaliny",
+      "Glukagonu"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "Leki",
+    "question": "Do jakiej klasy leków antyarytmicznych należy amiodaron?",
+    "answers": [
+      "Klasa I",
+      "Klasa II",
+      "Klasa III",
+      "Klasa IV"
+    ],
+    "correct": 2
+  },
+  {
+    "category": "Leki",
+    "question": "Jakie działanie niepożądane może wystąpić po zbyt szybkim dożylnym podaniu amiodaronu?",
+    "answers": [
+      "Nadciśnienie",
+      "Hipotensja i bradykardia",
+      "Hiperglikemia",
+      "Drgawki"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "Leki",
+    "question": "Jak stosuje się amiodaron w ciąży?",
+    "answers": [
+      "Bez żadnych ograniczeń",
+      "Wyłącznie w stanach zagrożenia życia, gdy korzyści przewyższają ryzyko",
+      "Jest lekiem pierwszego wyboru",
+      "Nie ma żadnych danych o bezpieczeństwie"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "Leki",
+    "question": "Jak podaje się pierwszą dawkę amiodaronu w NZK?",
+    "answers": [
+      "Doustnie",
+      "Szybki bolus dożylny/doszpikowy",
+      "Wlew trwający godzinę",
+      "Domięśniowo"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "Leki",
+    "question": "Które z poniższych jest istotnym przeciwwskazaniem do podania amiodaronu?",
+    "answers": [
+      "Uczulenie na jod",
+      "Ciężka bradykardia zatokowa i blok AV (bez rozrusznika)",
+      "Nadciśnienie",
+      "Astma"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "Leki",
+    "question": "Jaka jest dawka atropiny w objawowej bradykardii u dorosłego?",
+    "answers": [
+      "0,1 mg",
+      "0,5 mg",
+      "2 mg",
+      "5 mg"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "Leki",
+    "question": "Jaka jest maksymalna łączna dawka atropiny w leczeniu bradykardii?",
+    "answers": [
+      "1 mg",
+      "3 mg",
+      "6 mg",
+      "10 mg"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "Leki",
+    "question": "Jaki jest mechanizm działania atropiny?",
+    "answers": [
+      "Agonista receptorów muskarynowych",
+      "Antagonista (bloker) receptorów muskarynowych",
+      "Agonista receptorów beta",
+      "Bloker kanału wapniowego"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "Leki",
+    "question": "W jakim odstępie czasu można powtarzać dawki atropiny w bradykardii?",
+    "answers": [
+      "Co 1 min",
+      "Co 3-5 min",
+      "Co 15 min",
+      "Co godzinę"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "Leki",
+    "question": "W jakim zatruciu atropina jest lekiem z wyboru?",
+    "answers": [
+      "Zatrucie opioidami",
+      "Zatrucie związkami fosforoorganicznymi (np. pestycydami)",
+      "Zatrucie paracetamolem",
+      "Zatrucie alkoholem"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "Leki",
+    "question": "Które z poniższych jest względnym przeciwwskazaniem do stosowania atropiny?",
+    "answers": [
+      "Bradykardia",
+      "Jaskra z wąskim kątem przesączania",
+      "Zatrzymanie krążenia",
+      "Zatrucie fosforoorganiczne"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "Leki",
+    "question": "Jaki efekt uboczny jest typowy dla atropiny?",
+    "answers": [
+      "Nadmierne ślinienie",
+      "Suchość w ustach, tachykardia, rozszerzenie źrenic",
+      "Bradykardia",
+      "Hipoglikemia"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "Leki",
+    "question": "Jak skuteczna jest atropina w bradykardii spowodowanej blokiem AV III stopnia z szerokimi zespołami QRS?",
+    "answers": [
+      "Zawsze w pełni skuteczna",
+      "Często mało skuteczna - może wymagać stymulacji elektrycznej",
+      "Jest przeciwwskazana",
+      "Powoduje asystolię"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "Leki",
+    "question": "Jaką drogą najczęściej podaje się atropinę w ratownictwie?",
+    "answers": [
+      "Doustnie",
+      "Dożylnie lub doszpikowo",
+      "Wziewnie",
+      "Podskórnie"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "Leki",
+    "question": "Przy jakich dawkach atropina może paradoksalnie nasilić bradykardię?",
+    "answers": [
+      "W dawkach zbyt niskich (<0,5 mg)",
+      "W dawkach bardzo wysokich",
+      "Zawsze",
+      "Nigdy"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Do jakiej grupy leków należy fentanyl?",
+    "answers": [
+      "NLPZ",
+      "Silny opioidowy lek przeciwbólowy",
+      "Benzodiazepiny",
+      "Glikokortykosteroidy"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "Leki",
+    "question": "Jaka jest typowa dawka fentanylu dożylnie w silnym bólu u dorosłego?",
+    "answers": [
+      "1-2 mcg/kg",
+      "10 mg",
+      "50 mg",
+      "100 mg"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jakie jest antidotum (odwrócenie działania) dla fentanylu?",
+    "answers": [
+      "Flumazenil",
+      "Nalokson",
+      "Atropina",
+      "Glukagon"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "Leki",
+    "question": "Które działanie niepożądane jest charakterystyczne dla opioidów, w tym fentanylu?",
+    "answers": [
+      "Depresja oddechowa",
+      "Tachykardia",
+      "Hiperglikemia",
+      "Drgawki"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jak szybko działa fentanyl podany dożylnie w porównaniu z morfiną?",
+    "answers": [
+      "Wolniej",
+      "Szybciej (efekt w ciągu kilku minut)",
+      "Tak samo",
+      "Nie działa dożylnie"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "Leki",
+    "question": "Jak stosować fentanyl u pacjenta z ciężką hipotensją i niestabilnością hemodynamiczną?",
+    "answers": [
+      "Bez żadnych zastrzeżeń",
+      "Z ostrożnością - może pogłębić hipotensję",
+      "Jest lekiem z wyboru w tej sytuacji",
+      "Zwiększa ciśnienie krwi"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "Leki",
+    "question": "Jakie jest jedno z głównych wskazań do zastosowania fentanylu w ratownictwie?",
+    "answers": [
+      "Silny ból (np. pourazowy, zawał serca)",
+      "Hipoglikemia",
+      "Drgawki",
+      "Anafilaksja"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jak fentanyl uwalnia histaminę w porównaniu z morfiną?",
+    "answers": [
+      "W większym stopniu",
+      "W mniejszym stopniu niż morfina",
+      "Tylko u dzieci",
+      "Nie uwalnia histaminy w ogóle, tak jak morfina"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "Leki",
+    "question": "Jaką dawkę naloksonu podaje się w przedawkowaniu fentanylu z depresją oddechową?",
+    "answers": [
+      "0,4-2 mg i.v./i.m./donosowo, powtarzane w razie potrzeby",
+      "10 mg jednorazowo",
+      "0,01 mg",
+      "Nalokson nie działa na fentanyl"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Czy fentanyl może być podawany donosowo w ratownictwie?",
+    "answers": [
+      "Nie, tylko dożylnie",
+      "Tak, istnieją formy donosowe stosowane w bólu ostrym",
+      "Tylko doustnie",
+      "Tylko domięśniowo"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "Leki",
+    "question": "Do jakiej grupy leków należy morfina?",
+    "answers": [
+      "Opioidowy lek przeciwbólowy",
+      "NLPZ",
+      "Beta-bloker",
+      "Diuretyk"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jaka jest typowa dawka morfiny dożylnie u dorosłego w silnym bólu?",
+    "answers": [
+      "1-2 mg jednorazowo bez miareczkowania",
+      "2-5 mg, miareczkowana do efektu",
+      "20 mg",
+      "50 mg"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "Leki",
+    "question": "Jakie jest jedno z klasycznych wskazań do podania morfiny w kardiologii?",
+    "answers": [
+      "Ból w zawale serca (jeśli nitrogliceryna nieskuteczna)",
+      "Bradykardia",
+      "Nadciśnienie",
+      "Hipoglikemia"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jaki jest antagonista (antidotum) morfiny?",
+    "answers": [
+      "Flumazenil",
+      "Nalokson",
+      "Atropina",
+      "Fizostygmina"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "Leki",
+    "question": "Które działanie niepożądane jest częste przy podaniu morfiny?",
+    "answers": [
+      "Nudności, wymioty, depresja oddechowa, hipotensja",
+      "Hiperglikemia",
+      "Drgawki",
+      "Tachykardia"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jak stosować morfinę w ostrej niewydolności oddechowej bez wsparcia wentylacji?",
+    "answers": [
+      "Bez ograniczeń",
+      "Z dużą ostrożnością ze względu na ryzyko depresji oddechowej",
+      "Jest zalecana w tej sytuacji",
+      "Nie ma to znaczenia"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "Leki",
+    "question": "Jaki jest mechanizm działania morfiny?",
+    "answers": [
+      "Agonista receptorów opioidowych (głównie mi)",
+      "Antagonista receptorów opioidowych",
+      "Bloker kanału sodowego",
+      "Agonista receptorów GABA"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Czy morfina może powodować uwalnianie histaminy i reakcje skórne?",
+    "answers": [
+      "Tak",
+      "Nie, nigdy",
+      "Tylko u dzieci",
+      "Tylko przy podaniu doustnym"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jaką drogą najczęściej podaje się morfinę w stanach nagłych?",
+    "answers": [
+      "Doustnie",
+      "Dożylnie (powoli, miareczkowana)",
+      "Wziewnie",
+      "Doodbytniczo"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "Leki",
+    "question": "Czy morfinę należy stosować ostrożnie u pacjentów z hipotensją?",
+    "answers": [
+      "Tak, może pogłębiać hipotensję",
+      "Nie ma to znaczenia",
+      "Morfina podwyższa ciśnienie",
+      "Zawsze jest bezwzględnie przeciwwskazana"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Do jakiej grupy leków należy midazolam?",
+    "answers": [
+      "Benzodiazepiny",
+      "Opioidy",
+      "Barbiturany",
+      "NLPZ"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jakie jest główne wskazanie do podania midazolamu w ratownictwie?",
+    "answers": [
+      "Drgawki/stan padaczkowy, sedacja",
+      "Ból ostry",
+      "Bradykardia",
+      "Hipoglikemia"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jaki jest antagonista (antidotum) benzodiazepin, w tym midazolamu?",
+    "answers": [
+      "Nalokson",
+      "Flumazenil",
+      "Atropina",
+      "Glukagon"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "Leki",
+    "question": "Jaka jest typowa dawka midazolamu domięśniowo w drgawkach u dorosłego?",
+    "answers": [
+      "1 mg",
+      "5-10 mg",
+      "50 mg",
+      "100 mg"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "Leki",
+    "question": "Które działanie niepożądane jest istotne przy podaniu midazolamu, szczególnie z opioidami?",
+    "answers": [
+      "Depresja oddechowa",
+      "Tachykardia",
+      "Hiperglikemia",
+      "Nadciśnienie"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jakimi drogami można podać midazolam w leczeniu drgawek?",
+    "answers": [
+      "Tylko dożylnie",
+      "Dożylnie, domięśniowo, donosowo, doustnie (do jamy ustnej)",
+      "Tylko doustnie",
+      "Tylko wziewnie"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "Leki",
+    "question": "Jak stosować midazolam u pacjenta z niewydolnością oddechową?",
+    "answers": [
+      "Bez żadnych zastrzeżeń",
+      "Z ostrożnym monitorowaniem oddechu",
+      "Jest zawsze przeciwwskazany",
+      "Poprawia wydolność oddechową"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "Leki",
+    "question": "Jaki jest mechanizm działania midazolamu?",
+    "answers": [
+      "Nasila działanie GABA w OUN",
+      "Blokuje receptory opioidowe",
+      "Blokuje receptory muskarynowe",
+      "Agonista receptorów beta"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Czy podanie midazolamu przez ratownika medycznego wymagało wcześniej zgody lekarza?",
+    "answers": [
+      "Tak, ale zniesiono ten wymóg w aktualnym rozporządzeniu",
+      "Nigdy nie wymagał zgody",
+      "Nadal wymaga zgody",
+      "Nie dotyczy ratowników"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jakie jest ryzyko przy zbyt szybkim dożylnym podaniu midazolamu?",
+    "answers": [
+      "Hipotensja i depresja oddechowa",
+      "Drgawki",
+      "Nadciśnienie",
+      "Brak ryzyka"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jakie jest główne wskazanie do dożylnego podania glukozy?",
+    "answers": [
+      "Hipoglikemia",
+      "Hiperglikemia",
+      "Nadciśnienie",
+      "Ból"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "W jakim stężeniu najczęściej podaje się glukozę dożylnie w ciężkiej hipoglikemii u dorosłego?",
+    "answers": [
+      "5%",
+      "20% lub 40%",
+      "0,9%",
+      "70%"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "Leki",
+    "question": "Jaka jest typowa dawka 20% glukozy w ciężkiej hipoglikemii u dorosłego?",
+    "answers": [
+      "10-20 ml",
+      "100-200 ml (20 g glukozy)",
+      "500 ml",
+      "1000 ml"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "Leki",
+    "question": "Co należy sprawdzić przed podaniem stężonej glukozy dożylnie?",
+    "answers": [
+      "Nic specjalnego",
+      "Drożność dostępu dożylnego (ryzyko martwicy tkanek przy wynaczynieniu)",
+      "Poziom sodu",
+      "Ciśnienie tętnicze"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "Leki",
+    "question": "Jaki jest typowy objaw kliniczny ciężkiej hipoglikemii wymagającej podania glukozy?",
+    "answers": [
+      "Zaburzenia świadomości, drgawki, pocenie się, splątanie",
+      "Wysoka gorączka",
+      "Ból w klatce piersiowej",
+      "Duszność"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Czy po podaniu glukozy dożylnej należy skontrolować poziom cukru we krwi ponownie?",
+    "answers": [
+      "Tak, po kilku minutach",
+      "Nie ma takiej potrzeby",
+      "Tylko raz na dobę",
+      "Nigdy"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jakim alternatywnym lekiem można leczyć hipoglikemię, gdy brak jest dostępu dożylnego?",
+    "answers": [
+      "Glukagon domięśniowo",
+      "Atropina",
+      "Adrenalina",
+      "Furosemid"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Czy glukozę podaje się profilaktycznie pacjentowi nieprzytomnemu z prawidłowym poziomem cukru?",
+    "answers": [
+      "Tak, zawsze profilaktycznie",
+      "Nie, glukozę podaje się tylko przy potwierdzonej hipoglikemii",
+      "Nie ma to znaczenia",
+      "Zawsze szkodzi niezależnie od poziomu cukru"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "Leki",
+    "question": "Jakie ryzyko wiąże się ze zbyt szybkim wyrównaniem ciężkiej, przewlekłej hipoglikemii?",
+    "answers": [
+      "Brak ryzyka",
+      "Możliwe zaburzenia neurologiczne przy skrajnych przypadkach",
+      "Natychmiastowe wyzdrowienie bez ryzyka",
+      "Hipotermia"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "Leki",
+    "question": "Jaką drogą podania glukozy stosuje się najczęściej w ratownictwie przedszpitalnym?",
+    "answers": [
+      "Zawsze doustnie",
+      "Dożylnie (lub doszpikowo)",
+      "Wziewnie",
+      "Domięśniowo"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "Leki",
+    "question": "Jakie jest główne wskazanie do podania glukagonu?",
+    "answers": [
+      "Ciężka hipoglikemia bez dostępu dożylnego",
+      "Hiperglikemia",
+      "Ból",
+      "Bradykardia"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jaką drogą najczęściej podaje się glukagon w hipoglikemii?",
+    "answers": [
+      "Domięśniowo lub podskórnie",
+      "Wyłącznie dożylnie",
+      "Doustnie",
+      "Wziewnie"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jaki jest mechanizm działania glukagonu?",
+    "answers": [
+      "Mobilizuje glikogen z wątroby, podnosząc poziom glukozy we krwi",
+      "Blokuje wchłanianie glukozy",
+      "Obniża poziom glukozy",
+      "Działa jak insulina"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jaka jest typowa dawka glukagonu domięśniowo u dorosłego?",
+    "answers": [
+      "0,1 mg",
+      "1 mg",
+      "10 mg",
+      "50 mg"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "Leki",
+    "question": "Dlaczego glukagon może być nieskuteczny u pacjentów z wyczerpanymi zapasami glikogenu (np. głodzenie, alkoholizm)?",
+    "answers": [
+      "Brakuje substratu (glikogenu) do mobilizacji",
+      "Nie ma to znaczenia",
+      "Glukagon zawsze działa niezależnie od zapasów",
+      "Działa wtedy silniej"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jakie inne zastosowanie (poza hipoglikemią) może mieć glukagon w ratownictwie?",
+    "answers": [
+      "Leczenie przedawkowania beta-blokerów",
+      "Leczenie astmy",
+      "Leczenie zawału serca",
+      "Leczenie udaru"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Po jakim czasie od podania domięśniowego glukagon zaczyna zwykle działać?",
+    "answers": [
+      "Natychmiast",
+      "Zwykle po 10-15 minutach",
+      "Po 24 godzinach",
+      "Nie działa domięśniowo"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "Leki",
+    "question": "Jakie działanie niepożądane może wystąpić po podaniu glukagonu?",
+    "answers": [
+      "Nudności i wymioty",
+      "Bradykardia",
+      "Hipotensja",
+      "Senność"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Czy glukagon jest zwykle skuteczny u pacjentów z cukrzycą typu 1 leczonych wyłącznie insuliną?",
+    "answers": [
+      "Tak, zwykle jest skuteczny, gdyż mają zapasy glikogenu",
+      "Nigdy nie działa u diabetyków",
+      "Działa tylko dożylnie",
+      "Jest przeciwwskazany"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Co należy zrobić po odzyskaniu przytomności przez pacjenta po podaniu glukagonu?",
+    "answers": [
+      "Podać doustnie węglowodany, by uzupełnić zapasy glikogenu",
+      "Nic nie robić",
+      "Podać insulinę",
+      "Podać kolejną dawkę glukagonu natychmiast"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jakie jest główne wskazanie do podania naloksonu?",
+    "answers": [
+      "Przedawkowanie opioidów z depresją oddechową",
+      "Przedawkowanie benzodiazepin",
+      "Hipoglikemia",
+      "Anafilaksja"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jaki jest mechanizm działania naloksonu?",
+    "answers": [
+      "Kompetycyjny antagonista receptorów opioidowych",
+      "Agonista receptorów opioidowych",
+      "Bloker kanału sodowego",
+      "Agonista GABA"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jaka jest typowa dawka początkowa naloksonu u dorosłego (i.v./i.m./donosowo)?",
+    "answers": [
+      "0,04-0,4 mg, powtarzana w razie potrzeby",
+      "5 mg",
+      "50 mg",
+      "0,001 mg"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Dlaczego po podaniu naloksonu konieczna jest dalsza obserwacja pacjenta?",
+    "answers": [
+      "Czas działania naloksonu może być krótszy niż opioidu - ryzyko nawrotu depresji oddechowej",
+      "Nalokson działa 24 godziny",
+      "Nie ma takiej potrzeby",
+      "Nalokson jest toksyczny"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jakie ryzyko wiąże się z podaniem zbyt wysokiej dawki naloksonu u osoby uzależnionej od opioidów?",
+    "answers": [
+      "Nagły zespół odstawienny (pobudzenie, ból, tachykardia)",
+      "Głęboka sedacja",
+      "Hipoglikemia",
+      "Brak ryzyka"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jakimi drogami można podać nalokson w ratownictwie?",
+    "answers": [
+      "Dożylnie, domięśniowo, donosowo",
+      "Tylko doustnie",
+      "Tylko wziewnie",
+      "Tylko podskórnie"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Czy nalokson odwraca działanie benzodiazepin?",
+    "answers": [
+      "Nie, działa wyłącznie na receptory opioidowe",
+      "Tak, w pełni",
+      "Częściowo",
+      "Tylko w dużych dawkach"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jaki jest cel miareczkowania dawki naloksonu (podawania małych dawek stopniowo)?",
+    "answers": [
+      "Przywrócenie prawidłowego oddechu bez wywołania gwałtownego zespołu odstawiennego",
+      "Szybsze uzyskanie euforii",
+      "Zwiększenie sedacji",
+      "Brak celu"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Czy nalokson jest skuteczny w przedawkowaniu fentanylu i jego analogów?",
+    "answers": [
+      "Tak, choć czasem wymagane są wyższe/powtarzane dawki",
+      "Nie działa na fentanyl",
+      "Działa tylko na morfinę",
+      "Nalokson jest przeciwwskazany"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jaka jest klasyczna triada objawów przedawkowania opioidów, wskazująca na potrzebę podania naloksonu?",
+    "answers": [
+      "Depresja oddechowa, zwężenie źrenic (szpilkowate), zaburzenia świadomości",
+      "Gorączka, wysypka, świąd",
+      "Nadciśnienie, tachykardia, rozszerzone źrenice",
+      "Drgawki, hipertermia, sztywność mięśni"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jakie jest główne wskazanie do podania kwasu acetylosalicylowego w ratownictwie?",
+    "answers": [
+      "Podejrzenie ostrego zespołu wieńcowego (zawał serca)",
+      "Krwawienie",
+      "Hipoglikemia",
+      "Astma"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jaka jest typowa dawka kwasu acetylosalicylowego w podejrzeniu zawału serca?",
+    "answers": [
+      "75 mg",
+      "150-300 mg do rozgryzienia/rozpuszczenia w ustach",
+      "1000 mg",
+      "10 mg"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "Leki",
+    "question": "Jaki jest mechanizm działania kwasu acetylosalicylowego jako leku przeciwpłytkowego?",
+    "answers": [
+      "Nieodwracalne hamowanie cyklooksygenazy (COX), hamowanie agregacji płytek",
+      "Blokowanie receptorów opioidowych",
+      "Rozszerzanie naczyń wieńcowych",
+      "Blokowanie kanałów wapniowych"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jakie jest bezwzględne przeciwwskazanie do podania kwasu acetylosalicylowego?",
+    "answers": [
+      "Nadwrażliwość na salicylany, czynne krwawienie",
+      "Ból w klatce piersiowej",
+      "Nadciśnienie",
+      "Bradykardia"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Dlaczego zaleca się podanie aspiryny do rozgryzienia, a nie połknięcia w całości?",
+    "answers": [
+      "Szybsze wchłanianie i szybszy efekt przeciwpłytkowy",
+      "Nie ma znaczenia sposobu podania",
+      "Tabletka połknięta w całości w ogóle nie działa",
+      "To tylko zwyczaj bez znaczenia klinicznego"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jakie działanie niepożądane wiąże się ze stosowaniem kwasu acetylosalicylowego?",
+    "answers": [
+      "Podrażnienie żołądka, ryzyko krwawień",
+      "Bradykardia",
+      "Hipoglikemia",
+      "Senność"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jak podchodzić do podania aspiryny pacjentowi z astmą oskrzelową?",
+    "answers": [
+      "Z ostrożnością - może wywołać skurcz oskrzeli (astma aspirynowa)",
+      "Bez żadnych ograniczeń",
+      "Jest to zawsze bezwzględne przeciwwskazanie w astmie",
+      "Poprawia objawy astmy"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Do jakiej grupy leków należy kwas acetylosalicylowy?",
+    "answers": [
+      "NLPZ o działaniu przeciwpłytkowym",
+      "Opioidy",
+      "Benzodiazepiny",
+      "Beta-blokery"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Czy kwas acetylosalicylowy stosuje się łącznie z innymi lekami przeciwpłytkowymi w ostrym zespole wieńcowym?",
+    "answers": [
+      "Tak, to standardowe leczenie skojarzone",
+      "Nigdy nie łączy się tych leków",
+      "Wykluczają się nawzajem",
+      "Nie ma zastosowania w ratownictwie"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "U jakiej grupy pacjentów aspiryny nie stosuje się w infekcjach wirusowych ze względu na ryzyko zespołu Reye'a?",
+    "answers": [
+      "Dzieci i młodzieży",
+      "Osób starszych",
+      "Kobiet w ciąży",
+      "Mężczyzn"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jakie jest główne wskazanie do podania nitrogliceryny?",
+    "answers": [
+      "Ból dławicowy / obrzęk płuc kardiogenny",
+      "Hipoglikemia",
+      "Bradykardia",
+      "Anafilaksja"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jaką drogą najczęściej podaje się nitroglicerynę w ratownictwie przedszpitalnym?",
+    "answers": [
+      "Podjęzykowo (tabletka lub aerozol)",
+      "Domięśniowo",
+      "Doustnie po posiłku",
+      "Doodbytniczo"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jaki jest mechanizm działania nitrogliceryny?",
+    "answers": [
+      "Rozszerzenie naczyń żylnych i wieńcowych (donor tlenku azotu)",
+      "Zwężenie naczyń",
+      "Blokowanie receptorów beta",
+      "Hamowanie agregacji płytek"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jakie jest bezwzględne przeciwwskazanie do podania nitrogliceryny?",
+    "answers": [
+      "Niedawne przyjęcie inhibitorów PDE5 (np. sildenafil) oraz hipotensja/wstrząs",
+      "Ból w klatce piersiowej",
+      "Nadciśnienie",
+      "Astma"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jakie działanie niepożądane jest najczęstsze po podaniu nitrogliceryny?",
+    "answers": [
+      "Hipotensja i ból głowy",
+      "Bradykardia",
+      "Hiperglikemia",
+      "Senność"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jaką dawkę nitrogliceryny podaje się podjęzykowo jednorazowo?",
+    "answers": [
+      "0,4 mg (tabletka lub 1 dawka aerozolu)",
+      "4 mg",
+      "40 mg",
+      "0,04 mg"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Co należy sprawdzić przed każdym kolejnym podaniem nitrogliceryny?",
+    "answers": [
+      "Ciśnienie tętnicze krwi",
+      "Nic nie trzeba sprawdzać",
+      "Poziom cukru",
+      "Temperaturę ciała"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Dlaczego nitrogliceryna jest przeciwwskazana po niedawnym zażyciu leków na zaburzenia erekcji (np. sildenafil)?",
+    "answers": [
+      "Ryzyko ciężkiej, zagrażającej życiu hipotensji",
+      "Nie ma interakcji",
+      "Nasila działanie przeciwbólowe",
+      "Powoduje nadciśnienie"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Czy nitrogliceryna jest wskazana w bólu zawałowym z towarzyszącą znaczną hipotensją?",
+    "answers": [
+      "Nie, jest przeciwwskazana przy niskim ciśnieniu (np. zawał prawej komory, wstrząs)",
+      "Tak, zawsze jest wskazana",
+      "Poprawia ciśnienie",
+      "Nie ma to znaczenia"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jak długo trwa efekt jednej dawki nitrogliceryny podjęzykowej?",
+    "answers": [
+      "Krótko, ok. 20-30 minut",
+      "24 godziny",
+      "Tydzień",
+      "1 minutę"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Do jakiej grupy leków należy furosemid?",
+    "answers": [
+      "Diuretyk pętlowy",
+      "Beta-bloker",
+      "Opioid",
+      "NLPZ"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jakie jest główne wskazanie do podania furosemidu w ratownictwie?",
+    "answers": [
+      "Obrzęk płuc w przebiegu niewydolności serca",
+      "Odwodnienie",
+      "Hipoglikemia",
+      "Ból"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jaka jest typowa dawka furosemidu dożylnie w ostrym obrzęku płuc?",
+    "answers": [
+      "1 mg",
+      "20-40 mg",
+      "200 mg",
+      "1000 mg"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "Leki",
+    "question": "Jaki jest mechanizm działania furosemidu?",
+    "answers": [
+      "Hamowanie wchłaniania zwrotnego sodu i chloru w pętli Henlego",
+      "Blokowanie receptorów opioidowych",
+      "Rozszerzenie oskrzeli",
+      "Hamowanie agregacji płytek"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jakie zaburzenie elektrolitowe może wystąpić przy stosowaniu furosemidu?",
+    "answers": [
+      "Hipokaliemia",
+      "Hiperkaliemia",
+      "Hipernatremia",
+      "Hiperkalcemia"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jak podchodzić do podania furosemidu u pacjenta z ciężkim odwodnieniem/hipowolemią?",
+    "answers": [
+      "Może pogłębić hipowolemię i hipotensję - zachować ostrożność",
+      "Jest zawsze zalecany w tej sytuacji",
+      "Nie ma to znaczenia",
+      "Poprawia nawodnienie"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jaką drogą podania stosuje się furosemid w stanach nagłych?",
+    "answers": [
+      "Dożylnie",
+      "Wyłącznie doustnie",
+      "Wziewnie",
+      "Podjęzykowo"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jakie działanie ma furosemid poza działaniem moczopędnym, istotne we wczesnym leczeniu obrzęku płuc?",
+    "answers": [
+      "Wstępne działanie wenodylatacyjne (zmniejszenie obciążenia wstępnego serca)",
+      "Działanie przeciwbólowe",
+      "Działanie uspokajające",
+      "Działanie przeciwarytmiczne"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Czy nadmierne dawkowanie furosemidu może powodować odwodnienie i hipotensję?",
+    "answers": [
+      "Tak",
+      "Nie, nigdy",
+      "Tylko u dzieci",
+      "Furosemid zawsze podnosi ciśnienie"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jakie ryzyko wiąże się z bardzo szybkim podaniem wysokich dawek furosemidu dożylnie?",
+    "answers": [
+      "Ototoksyczność (zaburzenia słuchu)",
+      "Hiperglikemia",
+      "Nadciśnienie",
+      "Brak ryzyka"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jakie jest główne wskazanie do podania metoklopramidu?",
+    "answers": [
+      "Nudności i wymioty",
+      "Ból",
+      "Bradykardia",
+      "Hipoglikemia"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jaki jest mechanizm działania metoklopramidu?",
+    "answers": [
+      "Antagonista receptorów dopaminowych D2, działanie prokinetyczne",
+      "Agonista receptorów opioidowych",
+      "Bloker kanału wapniowego",
+      "Antagonista receptorów H1"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jaka jest typowa dawka metoklopramidu dożylnie u dorosłego?",
+    "answers": [
+      "10 mg",
+      "1 mg",
+      "100 mg",
+      "500 mg"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jakie działanie niepożądane, szczególnie u młodych osób, może wystąpić po metoklopramidzie?",
+    "answers": [
+      "Reakcje pozapiramidowe (dystonia, kręcz karku)",
+      "Bradykardia",
+      "Hipoglikemia",
+      "Wyłącznie senność"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Czy metoklopramid jest przeciwwskazany w niedrożności przewodu pokarmowego?",
+    "answers": [
+      "Tak, jest przeciwwskazany",
+      "Nie, jest zalecany",
+      "Nie ma to znaczenia",
+      "Poprawia niedrożność"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jaką drogą można podać metoklopramid w ratownictwie?",
+    "answers": [
+      "Dożylnie lub domięśniowo",
+      "Tylko doustnie",
+      "Tylko wziewnie",
+      "Tylko doodbytniczo"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Czy metoklopramid bywa stosowany wspomagająco przy silnych bólach głowy typu migrenowego?",
+    "answers": [
+      "Tak",
+      "Nigdy nie jest stosowany w migrenie",
+      "Jest przeciwwskazany w bólu głowy",
+      "Wywołuje migrenę"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jakie jest ryzyko zbyt szybkiego dożylnego podania metoklopramidu?",
+    "answers": [
+      "Nasilenie reakcji pozapiramidowych i niepokoju",
+      "Zatrzymanie krążenia",
+      "Brak ryzyka",
+      "Nadciśnienie"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "U jakiej grupy pacjentów zachować szczególną ostrożność przy metoklopramidzie ze względu na ryzyko dystonii?",
+    "answers": [
+      "Dzieci i młodych dorosłych",
+      "Osób starszych",
+      "Mężczyzn",
+      "Nie dotyczy żadnej grupy"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jak metoklopramid wpływa na perystaltykę przewodu pokarmowego?",
+    "answers": [
+      "Przyspiesza opróżnianie żołądka (działanie prokinetyczne)",
+      "Nie ma wpływu",
+      "Zwalnia perystaltykę",
+      "Powoduje zaparcia"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Do jakiej grupy leków należy salbutamol?",
+    "answers": [
+      "Krótko działający beta2-mimetyk wziewny",
+      "Glikokortykosteroid",
+      "Opioid",
+      "Benzodiazepina"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jakie jest główne wskazanie do podania salbutamolu?",
+    "answers": [
+      "Skurcz oskrzeli (astma, POChP)",
+      "Ból",
+      "Bradykardia",
+      "Hipoglikemia"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jaką drogą podaje się salbutamol w stanach nagłych?",
+    "answers": [
+      "Wziewnie (nebulizacja lub inhalator)",
+      "Zawsze dożylnie",
+      "Doustnie",
+      "Domięśniowo"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jaki jest mechanizm działania salbutamolu?",
+    "answers": [
+      "Agonista receptorów beta2-adrenergicznych - rozkurcz mięśni gładkich oskrzeli",
+      "Antagonista receptorów muskarynowych",
+      "Bloker kanału sodowego",
+      "Agonista receptorów opioidowych"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jakie działanie niepożądane może wystąpić po salbutamolu?",
+    "answers": [
+      "Tachykardia, drżenie mięśniowe",
+      "Bradykardia",
+      "Hipoglikemia",
+      "Senność"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jaka jest typowa dawka salbutamolu w nebulizacji w napadzie astmy u dorosłego?",
+    "answers": [
+      "2,5-5 mg",
+      "0,1 mg",
+      "50 mg",
+      "500 mg"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jak salbutamol wpływa na poziom potasu we krwi?",
+    "answers": [
+      "Może obniżać poziom potasu (hipokaliemia)",
+      "Nie ma wpływu",
+      "Podwyższa potas",
+      "Wpływa tylko na sód"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Czy salbutamol jest stosowany jako leczenie wspomagające w hiperkaliemii?",
+    "answers": [
+      "Tak, przesuwa potas do komórek",
+      "Nie ma takiego zastosowania",
+      "Powoduje hiperkaliemię",
+      "Jest przeciwwskazany w hiperkaliemii"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "U pacjentów z jaką chorobą serca zachować ostrożność przy salbutamolu ze względu na ryzyko tachyarytmii?",
+    "answers": [
+      "Choroba niedokrwienna serca / zaburzenia rytmu",
+      "Nadciśnienie",
+      "Hipotensja",
+      "Bradykardia"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Czy salbutamol można łączyć z lekami antycholinergicznymi wziewnymi (np. ipratropium) w ciężkim napadzie astmy/POChP?",
+    "answers": [
+      "Tak, to standardowe leczenie skojarzone w ciężkich napadach",
+      "Nigdy się ich nie łączy",
+      "Wykluczają się wzajemnie",
+      "Nie ma takiego zastosowania"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Do jakiej grupy leków należy ketoprofen?",
+    "answers": [
+      "NLPZ (niesteroidowy lek przeciwzapalny)",
+      "Opioid",
+      "Benzodiazepina",
+      "Beta-bloker"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jakie jest główne wskazanie do podania ketoprofenu w ratownictwie?",
+    "answers": [
+      "Ból o nasileniu łagodnym do umiarkowanego, stany zapalne",
+      "Bradykardia",
+      "Hipoglikemia",
+      "Anafilaksja"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jaki jest mechanizm działania ketoprofenu?",
+    "answers": [
+      "Hamowanie cyklooksygenazy (COX), zmniejszenie syntezy prostaglandyn",
+      "Agonista receptorów opioidowych",
+      "Blokowanie kanałów wapniowych",
+      "Antagonista receptorów H1"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jakie jest istotne przeciwwskazanie do podania ketoprofenu?",
+    "answers": [
+      "Czynna choroba wrzodowa żołądka/dwunastnicy, ciężka niewydolność nerek",
+      "Ból głowy",
+      "Gorączka",
+      "Kaszel"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jaka jest typowa dawka ketoprofenu dożylnie/domięśniowo u dorosłego?",
+    "answers": [
+      "50-100 mg",
+      "5 mg",
+      "500 mg",
+      "1000 mg"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jakie działanie niepożądane jest typowe dla NLPZ, w tym ketoprofenu?",
+    "answers": [
+      "Podrażnienie żołądka, ryzyko krwawień z przewodu pokarmowego",
+      "Bradykardia",
+      "Hipoglikemia",
+      "Senność"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jak podawać ketoprofen pacjentowi z ciężką astmą aspirynową?",
+    "answers": [
+      "Z ostrożnością - może wywołać skurcz oskrzeli podobnie jak aspiryna",
+      "Bez żadnych ograniczeń",
+      "Poprawia objawy astmy",
+      "Nie ma to znaczenia"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Czy ketoprofen może pogorszyć czynność nerek, szczególnie przy odwodnieniu?",
+    "answers": [
+      "Tak",
+      "Nie ma wpływu",
+      "Poprawia czynność nerek",
+      "Działa tylko na wątrobę"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Czy ketoprofen ma działanie przeciwpłytkowe podobne do aspiryny?",
+    "answers": [
+      "Ma odwracalne (słabsze, przemijające) działanie przeciwpłytkowe",
+      "Nie ma żadnego wpływu na płytki",
+      "Ma silniejsze działanie niż aspiryna",
+      "Zwiększa krzepliwość krwi"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "W której fazie ciąży NLPZ, w tym ketoprofen, są szczególnie przeciwwskazane?",
+    "answers": [
+      "W III trymestrze (ryzyko przedwczesnego zamknięcia przewodu tętniczego)",
+      "W I trymestrze wyłącznie",
+      "Nie ma przeciwwskazań w ciąży",
+      "Tylko przed poczęciem"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jakie jest główne wskazanie do podania adenozyny?",
+    "answers": [
+      "Napadowy częstoskurcz nadkomorowy (PSVT)",
+      "Migotanie przedsionków",
+      "Bradykardia",
+      "Asystolia"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jaka jest dawka początkowa adenozyny u dorosłego?",
+    "answers": [
+      "1 mg",
+      "6 mg szybki bolus i.v.",
+      "60 mg",
+      "600 mg"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "Leki",
+    "question": "Jaki jest mechanizm działania adenozyny?",
+    "answers": [
+      "Krótkotrwałe spowolnienie przewodzenia przez węzeł przedsionkowo-komorowy (AV)",
+      "Blokowanie receptorów beta",
+      "Rozszerzenie naczyń wieńcowych na stałe",
+      "Hamowanie agregacji płytek"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jak należy podać adenozynę, aby lek zadziałał skutecznie?",
+    "answers": [
+      "Powoli, w ciągu kilku minut",
+      "Bardzo szybkim bolusem, natychmiast przepłukanym solą fizjologiczną",
+      "Domięśniowo",
+      "Doustnie"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "Leki",
+    "question": "Jak długo utrzymuje się działanie adenozyny po podaniu?",
+    "answers": [
+      "Bardzo krótko (sekundy) - lek ma bardzo krótki okres półtrwania",
+      "Kilka godzin",
+      "24 godziny",
+      "Kilka dni"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jaki efekt uboczny często towarzyszy podaniu adenozyny?",
+    "answers": [
+      "Uczucie ucisku w klatce piersiowej, zaczerwienienie, krótkotrwała asystolia",
+      "Silny ból głowy trwający godzinami",
+      "Trwała bradykardia",
+      "Wysypka alergiczna"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "U jakich pacjentów należy zachować ostrożność przy podawaniu adenozyny?",
+    "answers": [
+      "Z astmą/skurczem oskrzeli oraz blokiem AV II/III st. bez rozrusznika",
+      "Z nadciśnieniem",
+      "Z hipoglikemią",
+      "Z gorączką"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jak teofilina wpływa na działanie adenozyny?",
+    "answers": [
+      "Osłabia działanie adenozyny (antagonizm)",
+      "Nasila działanie adenozyny",
+      "Nie ma interakcji",
+      "Powoduje toksyczność adenozyny"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Czy adenozyna jest skuteczna w migotaniu przedsionków?",
+    "answers": [
+      "Nie, działa głównie na częstoskurcze z udziałem węzła AV (PSVT)",
+      "Tak, jest lekiem pierwszego wyboru",
+      "Tak, ale tylko u dzieci",
+      "Zawsze przerywa migotanie przedsionków"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Co należy zapewnić podczas podawania adenozyny?",
+    "answers": [
+      "Ciągłe monitorowanie EKG",
+      "Brak potrzeby monitorowania",
+      "Pomiar temperatury ciała",
+      "Cewnikowanie pęcherza"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jakie jest główne wskazanie do podania budezonidu w ratownictwie?",
+    "answers": [
+      "Astma, POChP, ostre podgłośniowe zapalenie krtani (krup) u dzieci",
+      "Ból",
+      "Hipoglikemia",
+      "Bradykardia"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jaką drogą podaje się budezonid?",
+    "answers": [
+      "Wziewnie (nebulizacja)",
+      "Dożylnie",
+      "Doustnie",
+      "Domięśniowo"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Do jakiej grupy leków należy budezonid?",
+    "answers": [
+      "Glikokortykosteroid wziewny",
+      "Beta2-mimetyk",
+      "Opioid",
+      "NLPZ"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jaki jest mechanizm działania budezonidu?",
+    "answers": [
+      "Miejscowe działanie przeciwzapalne w drogach oddechowych",
+      "Rozkurcz mięśni gładkich oskrzeli poprzez receptory beta2",
+      "Blokowanie receptorów histaminowych",
+      "Hamowanie agregacji płytek"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jaka jest typowa dawka budezonidu w nebulizacji w krupie u dzieci?",
+    "answers": [
+      "2 mg",
+      "0,02 mg",
+      "20 mg",
+      "200 mg"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jakie działanie niepożądane może wystąpić przy przewlekłym stosowaniu budezonidu wziewnego?",
+    "answers": [
+      "Chrypka, kandydoza jamy ustnej",
+      "Bradykardia",
+      "Hipoglikemia",
+      "Drgawki"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Czy budezonid działa natychmiast, tak jak salbutamol?",
+    "answers": [
+      "Nie, efekt przeciwzapalny narasta wolniej",
+      "Tak, działa równie szybko",
+      "Działa szybciej niż salbutamol",
+      "Nie działa wziewnie"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jaka jest zaleta wziewnego glikokortykosteroidu (np. budezonidu) w porównaniu z systemowym?",
+    "answers": [
+      "Mniej działań ogólnoustrojowych",
+      "Silniejsze działanie ogólnoustrojowe",
+      "Szybszy początek działania",
+      "Brak jakichkolwiek różnic"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Czy budezonid stosuje się jako jedyny lek w ostrym, ciężkim napadzie astmy?",
+    "answers": [
+      "Nie, zwykle w skojarzeniu z beta2-mimetykiem",
+      "Tak, zawsze samodzielnie",
+      "Nigdy się go nie stosuje w astmie",
+      "Tylko domięśniowo"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "W jakim stanie u dzieci budezonid wziewny jest szczególnie przydatny obok deksametazonu?",
+    "answers": [
+      "W ostrym podgłośniowym zapaleniu krtani (krupie)",
+      "W hipoglikemii",
+      "W drgawkach",
+      "W urazie głowy"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jakie jest jedno z głównych wskazań do podania deksametazonu?",
+    "answers": [
+      "Obrzęk mózgu, krup, ciężkie reakcje zapalne/alergiczne",
+      "Hipoglikemia",
+      "Bradykardia",
+      "Ból ostry"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Do jakiej grupy leków należy deksametazon?",
+    "answers": [
+      "Glikokortykosteroid o silnym działaniu przeciwzapalnym",
+      "Opioid",
+      "Benzodiazepina",
+      "Diuretyk"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jakimi drogami można podać deksametazon?",
+    "answers": [
+      "Dożylnie, domięśniowo, doustnie",
+      "Wyłącznie wziewnie",
+      "Wyłącznie doodbytniczo",
+      "Wyłącznie podjęzykowo"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jaka jest typowa dawka deksametazonu w krupie u dzieci?",
+    "answers": [
+      "0,15-0,6 mg/kg",
+      "10 mg/kg",
+      "0,01 mg/kg",
+      "5 g/kg"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jaki jest mechanizm działania deksametazonu?",
+    "answers": [
+      "Hamowanie odpowiedzi zapalnej i immunologicznej",
+      "Blokowanie receptorów opioidowych",
+      "Rozkurcz oskrzeli poprzez receptory beta2",
+      "Hamowanie agregacji płytek"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jak długo utrzymuje się działanie deksametazonu w porównaniu z hydrokortyzonem?",
+    "answers": [
+      "Dłużej - deksametazon ma dłuższy czas działania",
+      "Krócej niż hydrokortyzon",
+      "Tak samo długo",
+      "Nie ma działania przeciwzapalnego"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jakie działania niepożądane wiążą się z przewlekłym stosowaniem deksametazonu?",
+    "answers": [
+      "Hiperglikemia, immunosupresja",
+      "Bradykardia",
+      "Hipoglikemia",
+      "Senność"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jaka jest rola deksametazonu we wstrząsie anafilaktycznym?",
+    "answers": [
+      "Lek drugiego rzutu, zapobiega nawrotowi objawów, nie zastępuje adrenaliny",
+      "Lek pierwszego rzutu zamiast adrenaliny",
+      "Nie ma zastosowania w anafilaksji",
+      "Odwraca działanie adrenaliny"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jakie jest względne przeciwwskazanie do stosowania deksametazonu?",
+    "answers": [
+      "Czynne zakażenia grzybicze ogólnoustrojowe",
+      "Ból głowy",
+      "Nadciśnienie",
+      "Astma"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Czy deksametazon działa natychmiastowo w reakcji anafilaktycznej?",
+    "answers": [
+      "Nie, efekt jest opóźniony i nie zastępuje adrenaliny",
+      "Tak, działa natychmiast jak adrenalina",
+      "Działa szybciej niż adrenalina",
+      "Nie ma zastosowania w anafilaksji"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Do jakiej grupy leków należy diazepam?",
+    "answers": [
+      "Benzodiazepiny",
+      "Opioidy",
+      "Barbiturany",
+      "NLPZ"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jakie jest główne wskazanie do podania diazepamu?",
+    "answers": [
+      "Drgawki/stan padaczkowy, silny lęk, sedacja",
+      "Ból ostry",
+      "Bradykardia",
+      "Hipoglikemia"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jaki jest antagonista (antidotum) diazepamu?",
+    "answers": [
+      "Flumazenil",
+      "Nalokson",
+      "Atropina",
+      "Glukagon"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jakimi drogami można podać diazepam?",
+    "answers": [
+      "Dożylnie, doodbytniczo (mikrowlewka), domięśniowo",
+      "Tylko doustnie",
+      "Tylko wziewnie",
+      "Tylko podskórnie"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jaka jest typowa dawka diazepamu w drgawkach u dorosłego (i.v.)?",
+    "answers": [
+      "5-10 mg",
+      "0,5 mg",
+      "50 mg",
+      "500 mg"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jakie działanie niepożądane jest istotne przy podaniu diazepamu?",
+    "answers": [
+      "Depresja oddechowa, sedacja, hipotensja",
+      "Tachykardia",
+      "Hiperglikemia",
+      "Nadciśnienie"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "U kogo szczególnie stosuje się doodbytniczą postać diazepamu?",
+    "answers": [
+      "U dzieci w drgawkach gorączkowych",
+      "Wyłącznie u dorosłych",
+      "Nigdy się jej nie stosuje",
+      "U pacjentów geriatrycznych wyłącznie"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jaki jest mechanizm działania diazepamu?",
+    "answers": [
+      "Nasila działanie GABA w OUN",
+      "Blokuje receptory opioidowe",
+      "Blokuje receptory muskarynowe",
+      "Agonista receptorów beta"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jakie ryzyko wiąże się z łączeniem diazepamu z opioidami?",
+    "answers": [
+      "Zwiększone ryzyko depresji oddechowej",
+      "Zmniejszone ryzyko powikłań",
+      "Brak interakcji",
+      "Nasilenie bólu"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jak długi jest czas działania diazepamu w porównaniu z midazolamem?",
+    "answers": [
+      "Dłuższy (dłuższy okres półtrwania)",
+      "Krótszy",
+      "Taki sam",
+      "Diazepam nie działa dłużej niż kilka sekund"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Do jakiej grupy leków należy drotaweryna?",
+    "answers": [
+      "Lek rozkurczowy (spazmolityk) działający bezpośrednio na mięśnie gładkie",
+      "Opioid",
+      "Benzodiazepina",
+      "Beta-bloker"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jakie jest główne wskazanie do podania drotaweryny?",
+    "answers": [
+      "Kolka nerkowa, żółciowa, skurcze mięśni gładkich",
+      "Ból pourazowy",
+      "Bradykardia",
+      "Hipoglikemia"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jakimi drogami podaje się drotawerynę w ratownictwie?",
+    "answers": [
+      "Dożylnie lub domięśniowo",
+      "Tylko doustnie",
+      "Tylko wziewnie",
+      "Tylko podjęzykowo"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jaka jest typowa dawka drotaweryny u dorosłego?",
+    "answers": [
+      "40-80 mg",
+      "1 mg",
+      "500 mg",
+      "5 g"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jaki jest mechanizm działania drotaweryny?",
+    "answers": [
+      "Hamowanie fosfodiesterazy, rozkurcz mięśni gładkich",
+      "Blokowanie receptorów opioidowych",
+      "Agonista receptorów beta2",
+      "Hamowanie COX"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jakie działanie niepożądane może wystąpić po podaniu drotaweryny?",
+    "answers": [
+      "Hipotensja, zawroty głowy",
+      "Bradykardia",
+      "Hiperglikemia",
+      "Drgawki"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jakie jest przeciwwskazanie do podania drotaweryny?",
+    "answers": [
+      "Ciężka niewydolność wątroby, nerek lub serca",
+      "Ból głowy",
+      "Gorączka",
+      "Kaszel"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Czy drotaweryna działa na ból pourazowy (nocyceptywny)?",
+    "answers": [
+      "Nie, działa tylko na ból spowodowany skurczem mięśni gładkich",
+      "Tak, skutecznie",
+      "Jest lekiem pierwszego wyboru w urazach",
+      "Zastępuje opioidy w urazach"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jaki inny lek ma podobne, spazmolityczne działanie do drotaweryny?",
+    "answers": [
+      "Papaweryna",
+      "Adrenalina",
+      "Amiodaron",
+      "Furosemid"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jak podchodzić do stosowania drotaweryny w ciąży?",
+    "answers": [
+      "Stosować ostrożnie, dane o bezpieczeństwie są ograniczone",
+      "Bez żadnych ograniczeń",
+      "Jest lekiem z wyboru w ciąży",
+      "Jest bezwzględnie przeciwwskazana zawsze"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jakie jest główne wskazanie do podania flumazenilu?",
+    "answers": [
+      "Przedawkowanie benzodiazepin z depresją OUN/oddechową",
+      "Przedawkowanie opioidów",
+      "Hipoglikemia",
+      "Anafilaksja"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jaki jest mechanizm działania flumazenilu?",
+    "answers": [
+      "Kompetycyjny antagonista receptora benzodiazepinowego",
+      "Agonista receptorów opioidowych",
+      "Bloker kanału sodowego",
+      "Agonista GABA"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jaka jest typowa dawka początkowa flumazenilu dożylnie?",
+    "answers": [
+      "0,2 mg, powtarzana do dawki 1 mg",
+      "5 mg",
+      "50 mg",
+      "0,001 mg"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jakie poważne ryzyko wiąże się z podaniem flumazenilu u osoby przewlekle uzależnionej od benzodiazepin?",
+    "answers": [
+      "Wywołanie drgawek",
+      "Głęboka sedacja",
+      "Hipoglikemia",
+      "Brak ryzyka"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Czy flumazenil odwraca działanie opioidów?",
+    "answers": [
+      "Nie",
+      "Tak, w pełni",
+      "Tak, częściowo",
+      "Tylko w dużych dawkach"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Dlaczego po podaniu flumazenilu konieczna jest dalsza obserwacja pacjenta?",
+    "answers": [
+      "Czas działania flumazenilu bywa krótszy niż benzodiazepiny - ryzyko nawrotu sedacji",
+      "Flumazenil działa 24 godziny",
+      "Nie ma takiej potrzeby",
+      "Flumazenil jest toksyczny"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "W jakiej sytuacji podanie flumazenilu jest szczególnie ryzykowne (przeciwwskazanie względne)?",
+    "answers": [
+      "Podejrzenie współistniejącego zatrucia lekami obniżającymi próg drgawkowy (np. trójpierścieniowe leki przeciwdepresyjne)",
+      "W zatruciu paracetamolem",
+      "W zatruciu alkoholem",
+      "Nigdy nie jest to ryzykowne"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Czy flumazenil stosuje się rutynowo w każdym przypadku podejrzenia zatrucia benzodiazepinami?",
+    "answers": [
+      "Nie, decyzja jest indywidualna, z zachowaniem ostrożności",
+      "Tak, zawsze automatycznie",
+      "Nigdy się go nie stosuje",
+      "Tylko u dzieci"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Co należy monitorować po podaniu flumazenilu?",
+    "answers": [
+      "Nawrót sedacji/depresji oddechowej",
+      "Poziom cukru we krwi",
+      "Temperaturę ciała",
+      "Diurezę"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jaką drogą podaje się flumazenil?",
+    "answers": [
+      "Dożylnie",
+      "Doustnie",
+      "Wziewnie",
+      "Domięśniowo wyłącznie"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Do jakiej grupy leków należy heparyna?",
+    "answers": [
+      "Antykoagulant (lek przeciwzakrzepowy)",
+      "Lek przeciwpłytkowy",
+      "NLPZ",
+      "Opioid"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jakie jest jedno z głównych wskazań do podania heparyny w ratownictwie?",
+    "answers": [
+      "Ostry zespół wieńcowy, profilaktyka/leczenie zakrzepicy",
+      "Ból",
+      "Hipoglikemia",
+      "Bradykardia"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jaki jest mechanizm działania heparyny?",
+    "answers": [
+      "Nasilenie działania antytrombiny III",
+      "Hamowanie COX",
+      "Blokowanie receptorów opioidowych",
+      "Agonista receptorów beta"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jaki jest antagonista (antidotum) heparyny?",
+    "answers": [
+      "Siarczan protaminy",
+      "Witamina K",
+      "Flumazenil",
+      "Nalokson"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jakimi drogami podaje się heparynę?",
+    "answers": [
+      "Dożylnie lub podskórnie",
+      "Doustnie",
+      "Wziewnie",
+      "Podjęzykowo"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jakie działanie niepożądane wiąże się ze stosowaniem heparyny?",
+    "answers": [
+      "Krwawienia, małopłytkowość poheparynowa (HIT)",
+      "Bradykardia",
+      "Hipoglikemia",
+      "Senność"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jakie jest przeciwwskazanie do podania heparyny?",
+    "answers": [
+      "Czynne krwawienie, ciężka małopłytkowość",
+      "Ból głowy",
+      "Gorączka",
+      "Nadciśnienie"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jaki parametr laboratoryjny monitoruje się przy leczeniu heparyną niefrakcjonowaną?",
+    "answers": [
+      "APTT",
+      "Poziom glukozy",
+      "Poziom sodu",
+      "OB"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Czy heparyna jest stosowana w ratownictwie przedszpitalnym w ostrym zespole wieńcowym?",
+    "answers": [
+      "Tak, jako element leczenia przeciwzakrzepowego",
+      "Nigdy nie jest stosowana przedszpitalnie",
+      "Tylko w szpitalu",
+      "Tylko w migotaniu przedsionków"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Czym różni się heparyna niefrakcjonowana od drobnocząsteczkowej?",
+    "answers": [
+      "Innym profilem dawkowania i sposobem monitorowania leczenia",
+      "Niczym się nie różnią",
+      "Drobnocząsteczkowa działa krócej",
+      "Niefrakcjonowana podawana jest tylko doustnie"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Do jakiej grupy leków należy hydrokortyzon?",
+    "answers": [
+      "Glikokortykosteroid",
+      "Opioid",
+      "Benzodiazepina",
+      "Diuretyk"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jakie jest jedno z głównych wskazań do podania hydrokortyzonu?",
+    "answers": [
+      "Wstrząs anafilaktyczny (lek wspomagający), ciężka astma, niewydolność nadnerczy",
+      "Hipoglikemia",
+      "Bradykardia",
+      "Ból ostry"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jakimi drogami podaje się hydrokortyzon?",
+    "answers": [
+      "Dożylnie lub domięśniowo",
+      "Tylko doustnie",
+      "Tylko wziewnie",
+      "Tylko podjęzykowo"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jaka jest typowa dawka hydrokortyzonu u dorosłego w anafilaksji?",
+    "answers": [
+      "100-200 mg",
+      "1 mg",
+      "1000 mg",
+      "5 mg"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jaki jest mechanizm działania hydrokortyzonu?",
+    "answers": [
+      "Działanie przeciwzapalne i immunosupresyjne",
+      "Blokowanie receptorów opioidowych",
+      "Rozkurcz oskrzeli przez receptory beta2",
+      "Hamowanie agregacji płytek"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Czy hydrokortyzon zastępuje adrenalinę w leczeniu anafilaksji?",
+    "answers": [
+      "Nie, jest lekiem drugiego rzutu",
+      "Tak, całkowicie zastępuje adrenalinę",
+      "Jest lekiem pierwszego wyboru zamiast adrenaliny",
+      "Odwraca działanie adrenaliny"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jakie jest ryzyko przy jednorazowym podaniu hydrokortyzonu?",
+    "answers": [
+      "Działania niepożądane są rzadkie przy jednorazowym podaniu",
+      "Zawsze powoduje ciężkie powikłania",
+      "Powoduje natychmiastową hipoglikemię",
+      "Zawsze wywołuje wstrząs"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "W jakim stanie nagłym hydrokortyzon jest lekiem z wyboru?",
+    "answers": [
+      "Przełom nadnerczowy (ostra niewydolność kory nadnerczy)",
+      "Zawał serca",
+      "Udar mózgu",
+      "Hipoglikemia"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jak długo działa hydrokortyzon w porównaniu z deksametazonem?",
+    "answers": [
+      "Krócej niż deksametazon",
+      "Dłużej niż deksametazon",
+      "Tak samo długo",
+      "Nie ma działania przeciwzapalnego"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Na co może wpływać stosowanie glikokortykosteroidów, w tym hydrokortyzonu, w kontekście objawów infekcji?",
+    "answers": [
+      "Może maskować objawy infekcji",
+      "Zawsze ujawnia infekcję",
+      "Nie ma wpływu na objawy infekcji",
+      "Powoduje natychmiastową gorączkę"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Do jakiej grupy leków należy hydroksyzyna?",
+    "answers": [
+      "Lek przeciwhistaminowy I generacji o działaniu uspokajającym",
+      "Opioid",
+      "Beta-bloker",
+      "Diuretyk"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jakie jest główne wskazanie do podania hydroksyzyny?",
+    "answers": [
+      "Reakcje alergiczne, świąd, stany lękowe, sedacja",
+      "Ból ostry",
+      "Bradykardia",
+      "Hipoglikemia"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jakimi drogami podaje się hydroksyzynę?",
+    "answers": [
+      "Domięśniowo lub doustnie",
+      "Wyłącznie dożylnie",
+      "Wyłącznie wziewnie",
+      "Wyłącznie podjęzykowo"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jakie działanie niepożądane jest typowe dla hydroksyzyny?",
+    "answers": [
+      "Senność, suchość w ustach",
+      "Bradykardia",
+      "Hiperglikemia",
+      "Drgawki"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jaki jest mechanizm działania hydroksyzyny?",
+    "answers": [
+      "Antagonista receptorów histaminowych H1",
+      "Agonista receptorów opioidowych",
+      "Bloker kanału wapniowego",
+      "Inhibitor ACE"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jakie jest przeciwwskazanie do stosowania hydroksyzyny?",
+    "answers": [
+      "Jaskra z wąskim kątem przesączania, przerost gruczołu krokowego (ostrożnie)",
+      "Ból głowy",
+      "Nadciśnienie",
+      "Gorączka"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Czy hydroksyzyna jest lekiem pierwszego rzutu w ciężkiej anafilaksji?",
+    "answers": [
+      "Nie, adrenalina jest lekiem pierwszego rzutu",
+      "Tak, zastępuje adrenalinę",
+      "Jest jedynym skutecznym lekiem",
+      "Nie ma zastosowania w alergiach"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jak hydroksyzyna wchodzi w interakcję z alkoholem i innymi lekami hamującymi OUN?",
+    "answers": [
+      "Nasila ich działanie sedatywne",
+      "Osłabia ich działanie",
+      "Nie ma interakcji",
+      "Odwraca ich działanie"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jaka jest standardowa dawka hydroksyzyny domięśniowo u dorosłego?",
+    "answers": [
+      "50-100 mg",
+      "1 mg",
+      "500 mg",
+      "5 g"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jakie ryzyko kardiologiczne wiąże się ze stosowaniem dużych dawek hydroksyzyny?",
+    "answers": [
+      "Wydłużenie odstępu QT",
+      "Ciężka bradykardia",
+      "Nagłe nadciśnienie",
+      "Brak ryzyka kardiologicznego"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Do jakiej grupy leków należy ibuprofen?",
+    "answers": [
+      "NLPZ (niesteroidowy lek przeciwzapalny)",
+      "Opioid",
+      "Benzodiazepina",
+      "Beta-bloker"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jakie jest główne wskazanie do podania ibuprofenu?",
+    "answers": [
+      "Ból łagodny/umiarkowany, gorączka, stany zapalne",
+      "Bradykardia",
+      "Hipoglikemia",
+      "Anafilaksja"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jaki jest mechanizm działania ibuprofenu?",
+    "answers": [
+      "Hamowanie cyklooksygenazy (COX), zmniejszenie syntezy prostaglandyn",
+      "Agonista receptorów opioidowych",
+      "Blokowanie kanałów wapniowych",
+      "Antagonista receptorów H1"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jakie jest istotne przeciwwskazanie do podania ibuprofenu?",
+    "answers": [
+      "Czynna choroba wrzodowa, ciężka niewydolność nerek",
+      "Ból głowy",
+      "Gorączka",
+      "Kaszel"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jakie działanie niepożądane jest typowe dla ibuprofenu?",
+    "answers": [
+      "Podrażnienie żołądka, ryzyko krwawień z przewodu pokarmowego",
+      "Bradykardia",
+      "Hipoglikemia",
+      "Senność"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jaką drogą podaje się ibuprofen w ratownictwie?",
+    "answers": [
+      "Doustnie",
+      "Wyłącznie dożylnie",
+      "Wyłącznie domięśniowo",
+      "Wyłącznie wziewnie"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jak podchodzić do stosowania ibuprofenu u pacjenta z astmą aspirynową?",
+    "answers": [
+      "Z ostrożnością, podobnie jak przy innych NLPZ",
+      "Bez żadnych ograniczeń",
+      "Poprawia objawy astmy",
+      "Nie ma to znaczenia"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Czy ibuprofen jest bezpieczny w III trymestrze ciąży?",
+    "answers": [
+      "Nie, jest przeciwwskazany (ryzyko dla płodu)",
+      "Tak, bez ograniczeń",
+      "Jest lekiem z wyboru w ciąży",
+      "Nie ma to znaczenia"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jaka jest typowa dawka ibuprofenu u dorosłego?",
+    "answers": [
+      "200-400 mg",
+      "5 mg",
+      "2000 mg jednorazowo standardowo",
+      "20 g"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Czy ibuprofen działa przeciwgorączkowo?",
+    "answers": [
+      "Tak",
+      "Nie",
+      "Tylko u dzieci",
+      "Tylko w skojarzeniu z antybiotykiem"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Do jakiej grupy leków należy izosorbid monoazotanu?",
+    "answers": [
+      "Azotan (długo działający)",
+      "Opioid",
+      "Benzodiazepina",
+      "NLPZ"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jakie jest główne wskazanie do stosowania izosorbidu monoazotanu?",
+    "answers": [
+      "Dławica piersiowa, profilaktyka bólu wieńcowego",
+      "Ból ostry pourazowy",
+      "Bradykardia",
+      "Hipoglikemia"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jaki jest mechanizm działania izosorbidu monoazotanu?",
+    "answers": [
+      "Rozszerzenie naczyń żylnych, zmniejszenie obciążenia wstępnego serca",
+      "Zwężenie naczyń",
+      "Blokowanie receptorów beta",
+      "Hamowanie agregacji płytek"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jakie jest przeciwwskazanie do stosowania izosorbidu monoazotanu?",
+    "answers": [
+      "Jednoczesne stosowanie inhibitorów PDE5 (np. sildenafil)",
+      "Ból w klatce piersiowej",
+      "Nadciśnienie",
+      "Astma"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jakie działanie niepożądane jest typowe dla izosorbidu monoazotanu?",
+    "answers": [
+      "Hipotensja, ból głowy",
+      "Bradykardia",
+      "Hiperglikemia",
+      "Senność"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Czym różni się izosorbid monoazotanu od nitrogliceryny?",
+    "answers": [
+      "Ma dłuższy czas działania - stosowany raczej profilaktycznie",
+      "Działa krócej niż nitrogliceryna",
+      "Nie ma żadnej różnicy",
+      "Nie rozszerza naczyń"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Czy izosorbid monoazotanu stosuje się doraźnie w ostrym ataku bólu wieńcowego, tak jak nitroglicerynę?",
+    "answers": [
+      "Głównie stosowany profilaktycznie, nie doraźnie",
+      "Tak, identycznie jak nitrogliceryna",
+      "Nigdy się go nie stosuje w chorobie wieńcowej",
+      "Działa szybciej niż nitrogliceryna"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Co może rozwinąć się przy stałym, ciągłym stosowaniu azotanów, w tym izosorbidu monoazotanu?",
+    "answers": [
+      "Tolerancja - wymaga okresu bez leku",
+      "Uzależnienie fizyczne jak przy opioidach",
+      "Natychmiastowa oporność po jednej dawce",
+      "Nie rozwija się tolerancja"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Co należy skontrolować przed podaniem izosorbidu monoazotanu?",
+    "answers": [
+      "Ciśnienie tętnicze krwi",
+      "Poziom cukru",
+      "Temperaturę ciała",
+      "Diurezę"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jaką drogą podania najczęściej stosuje się izosorbid monoazotanu?",
+    "answers": [
+      "Doustnie (czasem podjęzykowo w krótkodziałających postaciach)",
+      "Wyłącznie dożylnie",
+      "Wyłącznie wziewnie",
+      "Wyłącznie domięśniowo"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Do jakiej grupy leków należy kaptopryl?",
+    "answers": [
+      "Inhibitor konwertazy angiotensyny (ACE)",
+      "Beta-bloker",
+      "Diuretyk pętlowy",
+      "Opioid"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jakie jest główne wskazanie do podania kaptoprylu w ratownictwie?",
+    "answers": [
+      "Nagły, znaczny wzrost ciśnienia tętniczego (przełom nadciśnieniowy), niewydolność serca",
+      "Hipoglikemia",
+      "Bradykardia",
+      "Ból"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jaki jest mechanizm działania kaptoprylu?",
+    "answers": [
+      "Hamowanie konwersji angiotensyny I do angiotensyny II",
+      "Blokowanie receptorów beta",
+      "Blokowanie kanałów wapniowych",
+      "Antagonista receptorów H1"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jaką drogą podaje się kaptopryl w stanach nagłych?",
+    "answers": [
+      "Doustnie lub podjęzykowo",
+      "Wyłącznie dożylnie",
+      "Wyłącznie domięśniowo",
+      "Wyłącznie wziewnie"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jakie działanie niepożądane jest charakterystyczne dla inhibitorów ACE, w tym kaptoprylu?",
+    "answers": [
+      "Suchy kaszel, hipotensja, hiperkaliemia",
+      "Bradykardia",
+      "Hipoglikemia",
+      "Senność"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jakie jest bezwzględne przeciwwskazanie do stosowania kaptoprylu?",
+    "answers": [
+      "Obrzęk naczynioruchowy w wywiadzie, ciąża",
+      "Ból głowy",
+      "Gorączka",
+      "Astma"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Co oznacza tzw. \"efekt pierwszej dawki\" przy inhibitorach ACE, w tym kaptoprylu?",
+    "answers": [
+      "Nagła, znaczna hipotensja po pierwszej dawce",
+      "Natychmiastowa poprawa bez skutków ubocznych",
+      "Brak jakiegokolwiek efektu",
+      "Nagłe nadciśnienie"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jak NLPZ wpływają na działanie kaptoprylu?",
+    "answers": [
+      "Osłabiają działanie hipotensyjne kaptoprylu",
+      "Nasilają działanie kaptoprylu",
+      "Nie ma interakcji",
+      "Powodują natychmiastową toksyczność"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Kiedy stosuje się kaptopryl podjęzykowo w ratownictwie?",
+    "answers": [
+      "W nagłym, znacznym wzroście ciśnienia tętniczego",
+      "W hipotensji",
+      "W bradykardii",
+      "W hipoglikemii"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Czy kaptopryl jest bezpieczny w ciąży?",
+    "answers": [
+      "Nie, jest przeciwwskazany (działanie teratogenne)",
+      "Tak, bez ograniczeń",
+      "Jest lekiem z wyboru w ciąży",
+      "Nie ma to znaczenia"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Do jakiej grupy leków należy klemastyna?",
+    "answers": [
+      "Lek przeciwhistaminowy I generacji",
+      "Opioid",
+      "Beta-bloker",
+      "Diuretyk"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jakie jest główne wskazanie do podania klemastyny?",
+    "answers": [
+      "Reakcje alergiczne, świąd, pokrzywka",
+      "Ból ostry",
+      "Bradykardia",
+      "Hipoglikemia"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jakimi drogami podaje się klemastynę w ratownictwie?",
+    "answers": [
+      "Dożylnie lub domięśniowo",
+      "Tylko doustnie",
+      "Tylko wziewnie",
+      "Tylko podjęzykowo"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jaki jest mechanizm działania klemastyny?",
+    "answers": [
+      "Antagonista receptora histaminowego H1",
+      "Agonista receptorów opioidowych",
+      "Bloker kanału wapniowego",
+      "Inhibitor ACE"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jakie działanie niepożądane jest typowe dla klemastyny?",
+    "answers": [
+      "Senność",
+      "Bradykardia",
+      "Hiperglikemia",
+      "Drgawki"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jakie jest przeciwwskazanie do stosowania klemastyny?",
+    "answers": [
+      "Jaskra z wąskim kątem przesączania",
+      "Ból głowy",
+      "Nadciśnienie",
+      "Gorączka"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jaka jest standardowa dawka klemastyny dożylnie u dorosłego?",
+    "answers": [
+      "2 mg",
+      "0,1 mg",
+      "50 mg",
+      "500 mg"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Czy klemastyna zastępuje adrenalinę w leczeniu anafilaksji?",
+    "answers": [
+      "Nie",
+      "Tak, całkowicie",
+      "Jest lekiem pierwszego wyboru",
+      "Odwraca działanie adrenaliny"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jak alkohol i inne leki sedatywne wpływają na działanie klemastyny?",
+    "answers": [
+      "Nasilają jej działanie uspokajające",
+      "Osłabiają jej działanie",
+      "Nie ma interakcji",
+      "Odwracają jej działanie"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Z jakim innym typem leku przeciwhistaminowego (blokerem receptora H2) klemastyna bywa łączona w niektórych protokołach leczenia anafilaksji?",
+    "answers": [
+      "Z ranitydyną/famotydyną",
+      "Z adrenaliną w tej samej strzykawce",
+      "Z furosemidem",
+      "Z atropiną"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Do jakiej grupy leków należy klonazepam?",
+    "answers": [
+      "Benzodiazepiny",
+      "Opioidy",
+      "Barbiturany",
+      "NLPZ"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jakie jest główne wskazanie do podania klonazepamu?",
+    "answers": [
+      "Drgawki, stan padaczkowy, napady lękowe",
+      "Ból ostry",
+      "Bradykardia",
+      "Hipoglikemia"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jaki jest antagonista (antidotum) klonazepamu?",
+    "answers": [
+      "Flumazenil",
+      "Nalokson",
+      "Atropina",
+      "Glukagon"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jakimi drogami można podać klonazepam?",
+    "answers": [
+      "Dożylnie lub doustnie",
+      "Tylko wziewnie",
+      "Tylko domięśniowo",
+      "Tylko doodbytniczo"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jaki jest mechanizm działania klonazepamu?",
+    "answers": [
+      "Nasilenie działania GABA w OUN",
+      "Blokowanie receptorów opioidowych",
+      "Agonista receptorów beta",
+      "Inhibitor ACE"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jakie działanie niepożądane jest istotne przy podaniu klonazepamu?",
+    "answers": [
+      "Sedacja, depresja oddechowa",
+      "Tachykardia",
+      "Hiperglikemia",
+      "Nadciśnienie"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jaki jest czas działania klonazepamu?",
+    "answers": [
+      "Długi",
+      "Bardzo krótki (sekundy)",
+      "Kilka minut",
+      "Klonazepam nie działa dłużej niż chwilę"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jakie ryzyko wiąże się z łączeniem klonazepamu z opioidami?",
+    "answers": [
+      "Zwiększone ryzyko depresji oddechowej",
+      "Zmniejszone ryzyko powikłań",
+      "Brak interakcji",
+      "Nasilenie bólu"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jaka jest typowa dawka klonazepamu w drgawkach u dorosłego (i.v.)?",
+    "answers": [
+      "1 mg",
+      "0,01 mg",
+      "10 mg jednorazowo standardowo w RM",
+      "100 mg"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Czy klonazepam jest stosowany w przewlekłym leczeniu padaczki?",
+    "answers": [
+      "Tak",
+      "Nie, wyłącznie doraźnie",
+      "Tylko u dzieci",
+      "Nie ma zastosowania w padaczce"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Do jakiej grupy leków należy klopidogrel?",
+    "answers": [
+      "Lek przeciwpłytkowy",
+      "Antykoagulant",
+      "NLPZ",
+      "Beta-bloker"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jakie jest główne wskazanie do podania klopidogrelu przez ratownika medycznego?",
+    "answers": [
+      "Ostry zespół wieńcowy, po teletransmisji EKG i konsultacji z lekarzem",
+      "Ból głowy",
+      "Hipoglikemia",
+      "Bradykardia"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jaki jest mechanizm działania klopidogrelu?",
+    "answers": [
+      "Nieodwracalne blokowanie receptora P2Y12 na płytkach krwi",
+      "Hamowanie COX",
+      "Blokowanie receptorów opioidowych",
+      "Agonista receptorów beta"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jaka jest typowa dawka nasycająca klopidogrelu w ostrym zespole wieńcowym?",
+    "answers": [
+      "300-600 mg",
+      "10 mg",
+      "5 mg",
+      "3000 mg"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jakie działanie niepożądane wiąże się ze stosowaniem klopidogrelu?",
+    "answers": [
+      "Krwawienia",
+      "Bradykardia",
+      "Hipoglikemia",
+      "Senność"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jakie jest przeciwwskazanie do podania klopidogrelu?",
+    "answers": [
+      "Czynne krwawienie",
+      "Ból w klatce piersiowej",
+      "Nadciśnienie",
+      "Astma"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Czy ratownik medyczny może podać klopidogrel samodzielnie, bez żadnej konsultacji?",
+    "answers": [
+      "Nie, wymaga teletransmisji EKG i konsultacji z lekarzem",
+      "Tak, w pełni samodzielnie zawsze",
+      "Nigdy nie może go podać",
+      "Tylko za zgodą pacjenta bez lekarza"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Z jakim innym lekiem klopidogrel stosuje się łącznie w ostrym zespole wieńcowym?",
+    "answers": [
+      "Z kwasem acetylosalicylowym (podwójna terapia przeciwpłytkowa)",
+      "Z insuliną",
+      "Z atropiną",
+      "Z furosemidem"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Po jakim czasie od dawki nasycającej klopidogrelu można spodziewać się pełnego efektu przeciwpłytkowego?",
+    "answers": [
+      "Po kilku godzinach",
+      "Natychmiast po podaniu",
+      "Po kilku sekundach",
+      "Po kilku dniach dopiero"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Czym różni się klopidogrel od tikagreloru i prasugrelu?",
+    "answers": [
+      "Wolniejszym i bardziej zmiennym początkiem działania",
+      "Szybszym działaniem niż oba te leki",
+      "Brakiem działania przeciwpłytkowego",
+      "Jest silniejszy niż oba te leki"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Do jakiej grupy leków należy kwas traneksamowy?",
+    "answers": [
+      "Lek hamujący fibrynolizę (antyfibrynolityk)",
+      "Antykoagulant",
+      "Lek przeciwpłytkowy",
+      "NLPZ"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jakie jest główne wskazanie do podania kwasu traneksamowego?",
+    "answers": [
+      "Masywne krwawienia, ciężkie urazy z krwotokiem",
+      "Hipoglikemia",
+      "Bradykardia",
+      "Ból"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jaki jest mechanizm działania kwasu traneksamowego?",
+    "answers": [
+      "Hamowanie aktywacji plazminogenu do plazminy",
+      "Nasilenie fibrynolizy",
+      "Blokowanie receptorów opioidowych",
+      "Rozkurcz oskrzeli"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jaka jest typowa dawka kwasu traneksamowego przy masywnym krwotoku?",
+    "answers": [
+      "1 g i.v. w ciągu 10 minut, następnie 1 g we wlewie",
+      "10 mg jednorazowo",
+      "100 g",
+      "0,01 g"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jakie ryzyko wiąże się ze stosowaniem kwasu traneksamowego?",
+    "answers": [
+      "Ryzyko powikłań zakrzepowych",
+      "Ryzyko krwawień",
+      "Ryzyko hipoglikemii",
+      "Ryzyko bradykardii"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jakie jest przeciwwskazanie do podania kwasu traneksamowego?",
+    "answers": [
+      "Czynna zakrzepica żylna lub tętnicza",
+      "Ból w klatce piersiowej",
+      "Nadciśnienie",
+      "Astma"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "W jakim oknie czasowym od urazu podanie kwasu traneksamowego daje najlepsze efekty?",
+    "answers": [
+      "W ciągu ok. 3 godzin od urazu",
+      "Po 24 godzinach",
+      "Po tygodniu",
+      "Czas od urazu nie ma znaczenia"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Kiedy kwas traneksamowy został wprowadzony do wykazu leków dla ratowników medycznych w Polsce?",
+    "answers": [
+      "W ramach nowelizacji rozporządzenia z 2024 roku",
+      "Był dostępny od zawsze",
+      "Nigdy nie został wprowadzony",
+      "Tylko dla lekarzy, nigdy dla ratowników"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Poza urazami, w jakich innych sytuacjach klinicznych stosuje się kwas traneksamowy?",
+    "answers": [
+      "Krwotoki poporodowe, obfite miesiączkowanie",
+      "Wyłącznie w zawale serca",
+      "Wyłącznie w udarze",
+      "Wyłącznie w hipoglikemii"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jak ocenia się ryzyko zakrzepowe kwasu traneksamowego w kontekście masywnego krwotoku zagrażającego życiu?",
+    "answers": [
+      "Korzyści z zatrzymania krwotoku przeważają nad teoretycznym ryzykiem zakrzepowym",
+      "Ryzyko zawsze przewyższa korzyści",
+      "Nie ma żadnego ryzyka zakrzepowego",
+      "Lek jest całkowicie bezpieczny bez wyjątków"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jakie jest jedno z zastosowań lidokainy w ratownictwie poza znieczuleniem miejscowym?",
+    "answers": [
+      "Alternatywny lek antyarytmiczny w opornym VF/pVT",
+      "Leczenie hipoglikemii",
+      "Leczenie anafilaksji",
+      "Leczenie astmy"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jaki jest mechanizm działania lidokainy?",
+    "answers": [
+      "Blokowanie kanałów sodowych",
+      "Agonista receptorów opioidowych",
+      "Hamowanie COX",
+      "Agonista receptorów beta"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jaka jest dawka lidokainy jako leku antyarytmicznego w VF/pVT?",
+    "answers": [
+      "1-1,5 mg/kg i.v.",
+      "10 mg/kg",
+      "0,01 mg/kg",
+      "50 mg/kg"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jakie objawy mogą wystąpić przy przedawkowaniu lidokainy?",
+    "answers": [
+      "Drgawki, zaburzenia rytmu serca, depresja OUN",
+      "Hipoglikemia",
+      "Silna gorączka",
+      "Nadmierne pocenie"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jakimi drogami stosuje się lidokainę?",
+    "answers": [
+      "Dożylnie oraz miejscowo (znieczulenie)",
+      "Wyłącznie doustnie",
+      "Wyłącznie wziewnie",
+      "Wyłącznie doodbytniczo"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jakie jest przeciwwskazanie do podania lidokainy jako antyarytmiku?",
+    "answers": [
+      "Blok AV wysokiego stopnia bez rozrusznika, ciężka niewydolność wątroby",
+      "Ból głowy",
+      "Nadciśnienie",
+      "Gorączka"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Czy lidokainę można łączyć z amiodaronem w tym samym epizodzie NZK?",
+    "answers": [
+      "Nie, nie należy łączyć tych leków",
+      "Tak, zawsze łącznie",
+      "Tak, ale tylko u dzieci",
+      "Nie ma to znaczenia"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Do czego stosuje się lidokainę miejscowo w ratownictwie?",
+    "answers": [
+      "Znieczulenie przed drobnymi zabiegami (np. wkłucia, opatrywanie ran)",
+      "Leczenie zaburzeń rytmu wyłącznie",
+      "Leczenie hipoglikemii",
+      "Leczenie obrzęku płuc"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Od czego zależy maksymalna bezpieczna dawka lidokainy podanej miejscowo?",
+    "answers": [
+      "Od masy ciała pacjenta i miejsca podania",
+      "Jest zawsze stała, niezależnie od pacjenta",
+      "Nie ma znaczenia",
+      "Zależy wyłącznie od wieku"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Czy lidokaina jest obecnie lekiem pierwszego wyboru w leczeniu opornego VF/pVT wg wytycznych ERC?",
+    "answers": [
+      "Nie, lekiem pierwszego wyboru jest amiodaron, lidokaina to alternatywa",
+      "Tak, jest zawsze pierwszym wyborem",
+      "Nie jest stosowana w NZK w ogóle",
+      "Jest jedynym dopuszczonym lekiem antyarytmicznym"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jakie jest jedno z głównych wskazań do podania siarczanu magnezu w ratownictwie?",
+    "answers": [
+      "Torsade de pointes, ciężka astma, rzucawka",
+      "Hipoglikemia",
+      "Bradykardia",
+      "Zawał serca bez zaburzeń rytmu"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jaki jest mechanizm działania magnezu?",
+    "answers": [
+      "Stabilizacja błon komórkowych, działanie antagonistyczne wobec wapnia",
+      "Blokowanie receptorów opioidowych",
+      "Hamowanie COX",
+      "Agonista receptorów beta"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jaka jest typowa dawka siarczanu magnezu w torsade de pointes?",
+    "answers": [
+      "2 g i.v. w ciągu kilku minut",
+      "20 mg",
+      "0,2 mg",
+      "20 g"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jakie objawy mogą wystąpić przy przedawkowaniu magnezu?",
+    "answers": [
+      "Depresja oddechowa, arefleksja, bradykardia",
+      "Drgawki i hipertermia",
+      "Silna hiperglikemia",
+      "Tachykardia i nadciśnienie"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jaki jest antagonista (antidotum) przy toksyczności magnezu?",
+    "answers": [
+      "Glukonian wapnia",
+      "Flumazenil",
+      "Nalokson",
+      "Atropina"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jaką drogą podaje się siarczan magnezu w ratownictwie?",
+    "answers": [
+      "Dożylnie",
+      "Doustnie",
+      "Wziewnie",
+      "Podjęzykowo"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "U jakich pacjentów należy zachować szczególną ostrożność przy podawaniu magnezu?",
+    "answers": [
+      "Z ciężką niewydolnością nerek (ryzyko kumulacji)",
+      "Z nadciśnieniem",
+      "Z hipoglikemią",
+      "Z gorączką"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "W jakim stanie związanym z ciążą stosuje się siarczan magnezu?",
+    "answers": [
+      "Rzucawka / ciężki stan przedrzucawkowy - zapobieganie i leczenie drgawek",
+      "Poronienie",
+      "Poród przedwczesny bez innych powikłań",
+      "Nadciśnienie ciążowe łagodne bez drgawek"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Co należy monitorować podczas podawania magnezu?",
+    "answers": [
+      "Odruchy ścięgniste i częstość oddechów",
+      "Poziom glukozy wyłącznie",
+      "Temperaturę ciała wyłącznie",
+      "Diurezę wyłącznie"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jaka jest rola magnezu w leczeniu ciężkiego napadu astmy?",
+    "answers": [
+      "Rozkurcz mięśni gładkich oskrzeli jako leczenie wspomagające",
+      "Nie ma zastosowania w astmie",
+      "Zwęża oskrzela",
+      "Zastępuje salbutamol"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Do jakiej grupy leków należy mannitol?",
+    "answers": [
+      "Diuretyk osmotyczny",
+      "Diuretyk pętlowy",
+      "Beta-bloker",
+      "Opioid"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jakie jest główne wskazanie do podania mannitolu?",
+    "answers": [
+      "Obrzęk mózgu, podwyższone ciśnienie śródczaszkowe",
+      "Hipoglikemia",
+      "Ból",
+      "Bradykardia"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jaki jest mechanizm działania mannitolu?",
+    "answers": [
+      "Zwiększenie osmolarności osocza, przesunięcie wody z tkanek do naczyń",
+      "Blokowanie kanałów sodowych",
+      "Agonista receptorów opioidowych",
+      "Hamowanie COX"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jaką drogą podaje się mannitol?",
+    "answers": [
+      "Dożylnie (wlew)",
+      "Doustnie",
+      "Wziewnie",
+      "Domięśniowo"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jakie działanie niepożądane może wystąpić po podaniu mannitolu?",
+    "answers": [
+      "Odwodnienie, zaburzenia elektrolitowe, hipotensja",
+      "Bradykardia",
+      "Hipoglikemia",
+      "Drgawki"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "U jakich pacjentów mannitol wymaga szczególnej ostrożności?",
+    "answers": [
+      "Z ciężką niewydolnością serca lub obrzękiem płuc",
+      "Z bólem głowy",
+      "Z gorączką",
+      "Z astmą"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jaka jest typowa dawka mannitolu?",
+    "answers": [
+      "0,25-1 g/kg",
+      "10 g/kg",
+      "0,001 g/kg",
+      "5 g/kg zawsze"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Dlaczego mannitol wymaga podania przez filtr?",
+    "answers": [
+      "Ze względu na ryzyko krystalizacji roztworu",
+      "Nie wymaga filtra",
+      "Ze względu na kolor roztworu",
+      "Ze względu na temperaturę leku"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Co należy monitorować podczas leczenia mannitolem?",
+    "answers": [
+      "Diurezę, elektrolity, stan nawodnienia",
+      "Wyłącznie temperaturę ciała",
+      "Wyłącznie poziom cukru",
+      "Wyłącznie tętno"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jak mannitol obniża ciśnienie śródczaszkowe?",
+    "answers": [
+      "Poprzez zmniejszenie objętości mózgu na drodze efektu osmotycznego",
+      "Poprzez rozszerzenie naczyń mózgowych",
+      "Poprzez zwężenie źrenic",
+      "Poprzez sedację pacjenta"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Do jakiej grupy leków należy metamizol?",
+    "answers": [
+      "Nieopioidowy lek przeciwbólowy i przeciwgorączkowy (pochodna pirazolonu)",
+      "Opioid",
+      "Benzodiazepina",
+      "Beta-bloker"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jakie jest główne wskazanie do podania metamizolu?",
+    "answers": [
+      "Silny ból, wysoka gorączka oporna na inne leki, ból kolkowy",
+      "Bradykardia",
+      "Hipoglikemia",
+      "Anafilaksja"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jaki jest mechanizm działania metamizolu?",
+    "answers": [
+      "Hamowanie syntezy prostaglandyn oraz działanie spazmolityczne",
+      "Blokowanie receptorów opioidowych",
+      "Agonista receptorów beta",
+      "Antagonista receptorów H1"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jakie rzadkie, ale poważne działanie niepożądane wiąże się z metamizolem?",
+    "answers": [
+      "Agranulocytoza",
+      "Bradykardia",
+      "Hipoglikemia",
+      "Nadciśnienie"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jakimi drogami podaje się metamizol?",
+    "answers": [
+      "Dożylnie, domięśniowo, doustnie",
+      "Wyłącznie wziewnie",
+      "Wyłącznie podjęzykowo",
+      "Wyłącznie doodbytniczo"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jakie jest przeciwwskazanie do stosowania metamizolu?",
+    "answers": [
+      "Nadwrażliwość na pirazolony, niektóre choroby krwi",
+      "Ból głowy",
+      "Gorączka",
+      "Kaszel"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jaka jest typowa dawka metamizolu dożylnie u dorosłego?",
+    "answers": [
+      "1-2,5 g",
+      "10 mg",
+      "100 mg",
+      "10 g"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jakie ryzyko wiąże się ze zbyt szybkim dożylnym podaniem metamizolu?",
+    "answers": [
+      "Spadek ciśnienia tętniczego",
+      "Nagłe nadciśnienie",
+      "Drgawki",
+      "Hiperglikemia"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jaka jest dodatkowa zaleta metamizolu w bólu kolkowym?",
+    "answers": [
+      "Ma dodatkowe działanie spazmolityczne",
+      "Nie ma zastosowania w bólu kolkowym",
+      "Działa wyłącznie przeciwgorączkowo",
+      "Powoduje skurcz mięśni gładkich"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Dlaczego metamizol jest wycofany lub ograniczony w niektórych krajach?",
+    "answers": [
+      "Ze względu na ryzyko agranulocytozy",
+      "Ze względu na brak skuteczności",
+      "Ze względu na wysoki koszt",
+      "Ze względu na krótki termin ważności"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Do jakiej grupy leków należy metoprolol?",
+    "answers": [
+      "Kardioselektywny beta-bloker",
+      "Diuretyk pętlowy",
+      "Opioid",
+      "NLPZ"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jakie jest jedno z głównych wskazań do podania metoprololu?",
+    "answers": [
+      "Tachyarytmie, stabilny hemodynamicznie ostry zespół wieńcowy",
+      "Hipoglikemia",
+      "Anafilaksja",
+      "Ciężkie krwawienie"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jaki jest mechanizm działania metoprololu?",
+    "answers": [
+      "Blokowanie receptorów beta1-adrenergicznych",
+      "Agonista receptorów opioidowych",
+      "Hamowanie COX",
+      "Blokowanie kanałów sodowych"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jakie działanie niepożądane wiąże się ze stosowaniem metoprololu?",
+    "answers": [
+      "Bradykardia, hipotensja",
+      "Tachykardia",
+      "Hiperglikemia",
+      "Drgawki"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jakie jest przeciwwskazanie do podania metoprololu?",
+    "answers": [
+      "Ciężka bradykardia, blok AV wysokiego stopnia, ostra niewydolność serca",
+      "Ból głowy",
+      "Gorączka",
+      "Łagodny ból"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jakimi drogami podaje się metoprolol?",
+    "answers": [
+      "Dożylnie lub doustnie",
+      "Wyłącznie wziewnie",
+      "Wyłącznie domięśniowo",
+      "Wyłącznie doodbytniczo"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jaka jest typowa dawka metoprololu dożylnie?",
+    "answers": [
+      "2,5-5 mg, powoli, można powtórzyć",
+      "50 mg jednorazowo",
+      "500 mg",
+      "0,01 mg"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jaki jest antidotum stosowany przy ciężkim przedawkowaniu beta-blokerów, w tym metoprololu?",
+    "answers": [
+      "Glukagon",
+      "Nalokson",
+      "Flumazenil",
+      "Atropina jako jedyny lek"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Czy metoprolol stosuje się rutynowo w trakcie zatrzymania krążenia?",
+    "answers": [
+      "Nie, dotyczy stabilnych hemodynamicznie tachyarytmii/OZW",
+      "Tak, jest lekiem pierwszego wyboru w NZK",
+      "Tak, zastępuje amiodaron",
+      "Jest podawany w każdym przypadku bradykardii"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jakiej interakcji lekowej należy unikać przy dożylnym podaniu metoprololu?",
+    "answers": [
+      "Łączenia z dożylnym werapamilem/diltiazemem (ryzyko ciężkiej bradykardii/bloku)",
+      "Łączenia z paracetamolem",
+      "Łączenia z tlenem",
+      "Łączenia z solą fizjologiczną"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jakie jest główne wskazanie do podania noradrenaliny?",
+    "answers": [
+      "Wstrząs hipotensyjny (np. septyczny), przywracanie ciśnienia tętniczego",
+      "Hipoglikemia",
+      "Ból",
+      "Bradykardia bez wstrząsu"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jaki jest mechanizm działania noradrenaliny?",
+    "answers": [
+      "Silny agonista receptorów alfa-adrenergicznych, słabiej beta1",
+      "Antagonista receptorów muskarynowych",
+      "Bloker kanału sodowego",
+      "Agonista receptorów opioidowych"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jaką drogą podaje się noradrenalinę?",
+    "answers": [
+      "Dożylnie/doszpikowo, w ciągłym wlewie",
+      "Domięśniowo w bolusie",
+      "Doustnie",
+      "Podjęzykowo"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jaka jest typowa dawka wlewu noradrenaliny?",
+    "answers": [
+      "0,05-0,5 mcg/kg/min",
+      "5-10 mg/kg/min",
+      "0,0001 mcg/kg/min",
+      "50 mg/kg/min"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jakie ryzyko wiąże się z wynaczynieniem noradrenaliny poza naczynie?",
+    "answers": [
+      "Martwica tkanek w miejscu wynaczynienia",
+      "Brak jakiegokolwiek ryzyka",
+      "Natychmiastowa poprawa krążenia miejscowego",
+      "Zwiększenie wchłaniania leku"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Co należy stale monitorować podczas wlewu noradrenaliny?",
+    "answers": [
+      "Ciśnienie tętnicze krwi",
+      "Wyłącznie temperaturę ciała",
+      "Wyłącznie poziom cukru",
+      "Wyłącznie diurezę"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Co należy zrobić przed podaniem noradrenaliny u pacjenta z nieskorygowaną hipowolemią?",
+    "answers": [
+      "Najpierw uzupełnić objętość płynów",
+      "Podać od razu noradrenalinę bez uzupełniania płynów",
+      "Podać insulinę",
+      "Podać atropinę"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Co można rozważyć miejscowo przy wynaczynieniu noradrenaliny, jeśli dostępne?",
+    "answers": [
+      "Podanie fentolaminy miejscowo",
+      "Podanie adrenaliny miejscowo",
+      "Zimny okład wyłącznie bez leczenia farmakologicznego",
+      "Nic się nie robi"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Kiedy noradrenalina została dodana do wykazu leków dla ratownika medycznego w Polsce?",
+    "answers": [
+      "W nowelizacji rozporządzenia z 2024 roku",
+      "Była dostępna od zawsze",
+      "Nigdy nie została wprowadzona",
+      "Tylko w wersji dla szpitali od 2010 roku"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Czym różni się noradrenalina od adrenaliny pod względem działania na receptory?",
+    "answers": [
+      "Działa głównie na receptory alfa, słabiej na beta2 (mniej rozszerza oskrzela)",
+      "Działa wyłącznie na receptory beta2",
+      "Nie różni się niczym",
+      "Działa silniej na oskrzela niż adrenalina"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Do jakiej grupy leków należy papaweryna?",
+    "answers": [
+      "Lek rozkurczowy (spazmolityk) działający bezpośrednio na mięśnie gładkie",
+      "Opioid",
+      "Benzodiazepina",
+      "Beta-bloker"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jakie jest główne wskazanie do podania papaweryny?",
+    "answers": [
+      "Kolka nerkowa/żółciowa, skurcze mięśni gładkich",
+      "Ból pourazowy",
+      "Bradykardia",
+      "Hipoglikemia"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jaki jest mechanizm działania papaweryny?",
+    "answers": [
+      "Hamowanie fosfodiesterazy, rozkurcz mięśni gładkich naczyń i przewodu pokarmowego",
+      "Blokowanie receptorów opioidowych",
+      "Agonista receptorów beta2",
+      "Hamowanie COX"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jakimi drogami podaje się papawerynę?",
+    "answers": [
+      "Dożylnie lub domięśniowo",
+      "Tylko doustnie",
+      "Tylko wziewnie",
+      "Tylko podjęzykowo"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jakie działanie niepożądane może wystąpić przy szybkim dożylnym podaniu papaweryny?",
+    "answers": [
+      "Hipotensja, rzadko zaburzenia rytmu serca",
+      "Bradykardia zawsze bezobjawowa",
+      "Hiperglikemia",
+      "Drgawki"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jakie jest przeciwwskazanie do podania papaweryny?",
+    "answers": [
+      "Blok AV całkowity, jaskra",
+      "Ból głowy",
+      "Gorączka",
+      "Kaszel"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jaka jest typowa dawka papaweryny u dorosłego?",
+    "answers": [
+      "40-80 mg",
+      "1 mg",
+      "500 mg",
+      "5 g"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jaki inny lek ma podobne, spazmolityczne działanie do papaweryny?",
+    "answers": [
+      "Drotaweryna",
+      "Adrenalina",
+      "Amiodaron",
+      "Furosemid"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Czy papaweryna działa na ból pourazowy (nocyceptywny)?",
+    "answers": [
+      "Nie, działa tylko na ból trzewny/skurczowy",
+      "Tak, skutecznie",
+      "Jest lekiem pierwszego wyboru w urazach",
+      "Zastępuje opioidy w urazach"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Dlaczego papawerynę należy podawać dożylnie powoli?",
+    "answers": [
+      "Ze względu na ryzyko hipotensji i zaburzeń rytmu serca",
+      "Nie ma znaczenia szybkość podania",
+      "Aby zwiększyć skuteczność leku",
+      "Aby uniknąć bólu w miejscu wkłucia wyłącznie"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Do jakiej grupy leków należy paracetamol?",
+    "answers": [
+      "Nieopioidowy lek przeciwbólowy i przeciwgorączkowy",
+      "NLPZ",
+      "Opioid",
+      "Benzodiazepina"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jakie jest główne wskazanie do podania paracetamolu?",
+    "answers": [
+      "Ból łagodny/umiarkowany, gorączka",
+      "Bradykardia",
+      "Hipoglikemia",
+      "Anafilaksja"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jakimi drogami podaje się paracetamol?",
+    "answers": [
+      "Dożylnie, doustnie, doodbytniczo",
+      "Wyłącznie wziewnie",
+      "Wyłącznie podjęzykowo",
+      "Wyłącznie domięśniowo"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jaka jest typowa dawka paracetamolu dożylnie u dorosłego?",
+    "answers": [
+      "1 g",
+      "10 mg",
+      "100 mg",
+      "10 g"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jaki narząd jest głównie zagrożony przy przedawkowaniu paracetamolu?",
+    "answers": [
+      "Wątroba",
+      "Nerki",
+      "Serce",
+      "Płuca"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jakie jest antidotum przy zatruciu paracetamolem?",
+    "answers": [
+      "Acetylocysteina (N-acetylocysteina)",
+      "Nalokson",
+      "Flumazenil",
+      "Atropina"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jaka jest maksymalna standardowa dawka dobowa paracetamolu u dorosłego?",
+    "answers": [
+      "4 g (mniej przy chorobach wątroby)",
+      "40 g",
+      "0,4 g",
+      "400 g"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Czy paracetamol ma istotne działanie przeciwzapalne, jak NLPZ?",
+    "answers": [
+      "Nie, ma słabe lub brak istotnego działania przeciwzapalnego",
+      "Tak, silniejsze niż NLPZ",
+      "Tak, identyczne jak ibuprofen",
+      "Jest najsilniejszym lekiem przeciwzapalnym"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Czy paracetamol jest bezpieczny do stosowania w ciąży?",
+    "answers": [
+      "Tak, jest lekiem z wyboru przeciwbólowym/przeciwgorączkowym w ciąży",
+      "Nie, jest bezwzględnie przeciwwskazany",
+      "Tylko w III trymestrze",
+      "Powoduje wady wrodzone"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jaki jest mechanizm działania paracetamolu?",
+    "answers": [
+      "Nie do końca poznany, obejmuje hamowanie COX głównie w OUN",
+      "Blokowanie receptorów opioidowych",
+      "Agonista receptorów beta2",
+      "Hamowanie agregacji płytek jak aspiryna"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Do jakiej grupy leków należy prasugrel?",
+    "answers": [
+      "Lek przeciwpłytkowy",
+      "Antykoagulant",
+      "NLPZ",
+      "Beta-bloker"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jakie jest główne wskazanie do podania prasugrelu?",
+    "answers": [
+      "Ostry zespół wieńcowy, przygotowanie do angioplastyki",
+      "Ból głowy",
+      "Hipoglikemia",
+      "Bradykardia"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jaki jest mechanizm działania prasugrelu?",
+    "answers": [
+      "Nieodwracalne blokowanie receptora P2Y12 na płytkach krwi",
+      "Hamowanie COX",
+      "Blokowanie receptorów opioidowych",
+      "Agonista receptorów beta"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jaka jest typowa dawka nasycająca prasugrelu?",
+    "answers": [
+      "60 mg",
+      "600 mg",
+      "6 mg",
+      "6000 mg"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jaka jest typowa dawka podtrzymująca prasugrelu?",
+    "answers": [
+      "10 mg dziennie",
+      "100 mg dziennie",
+      "1 mg dziennie",
+      "1000 mg dziennie"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jakie działanie niepożądane wiąże się ze stosowaniem prasugrelu?",
+    "answers": [
+      "Krwawienia",
+      "Bradykardia",
+      "Hipoglikemia",
+      "Senność"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jakie jest istotne przeciwwskazanie do podania prasugrelu?",
+    "answers": [
+      "Udar mózgu/TIA w wywiadzie, czynne krwawienie",
+      "Ból w klatce piersiowej",
+      "Nadciśnienie",
+      "Astma"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Kiedy prasugrel został wprowadzony do wykazu leków dla ratownika medycznego w Polsce?",
+    "answers": [
+      "W nowelizacji rozporządzenia z 2024 roku",
+      "Był dostępny od zawsze",
+      "Nigdy nie został wprowadzony",
+      "Dopiero planowany na przyszłość"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Czym prasugrel różni się od klopidogrelu?",
+    "answers": [
+      "Ma szybszy i silniejszy efekt przeciwpłytkowy",
+      "Działa wolniej niż klopidogrel",
+      "Nie ma działania przeciwpłytkowego",
+      "Jest lekiem przeciwzapalnym, nie przeciwpłytkowym"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "U jakiej grupy pacjentów należy zachować szczególną ostrożność przy prasugrelu ze względu na ryzyko krwawień?",
+    "answers": [
+      "U osób w podeszłym wieku (powyżej ok. 75 lat) i o niskiej masie ciała",
+      "U dzieci wyłącznie",
+      "U osób z hipoglikemią",
+      "U osób z astmą"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Do jakiej grupy leków należy tikagrelor?",
+    "answers": [
+      "Lek przeciwpłytkowy",
+      "Antykoagulant",
+      "NLPZ",
+      "Beta-bloker"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jakie jest główne wskazanie do podania tikagreloru?",
+    "answers": [
+      "Ostry zespół wieńcowy",
+      "Ból głowy",
+      "Hipoglikemia",
+      "Bradykardia"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jaki jest mechanizm działania tikagreloru?",
+    "answers": [
+      "Odwracalne blokowanie receptora P2Y12 na płytkach krwi",
+      "Hamowanie COX",
+      "Blokowanie receptorów opioidowych",
+      "Agonista receptorów beta"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jaka jest typowa dawka nasycająca tikagreloru?",
+    "answers": [
+      "180 mg",
+      "18 mg",
+      "1800 mg",
+      "1,8 mg"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jakie działanie niepożądane wiąże się ze stosowaniem tikagreloru poza krwawieniami?",
+    "answers": [
+      "Duszność",
+      "Bradykardia zawsze",
+      "Hipoglikemia",
+      "Senność"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jakie jest przeciwwskazanie do podania tikagreloru?",
+    "answers": [
+      "Czynne krwawienie, ciężka niewydolność wątroby",
+      "Ból w klatce piersiowej",
+      "Nadciśnienie",
+      "Astma"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Czy ratownik medyczny może podać tikagrelor bez żadnej konsultacji z lekarzem?",
+    "answers": [
+      "Nie, wymaga teletransmisji EKG i konsultacji z lekarzem",
+      "Tak, w pełni samodzielnie",
+      "Nigdy nie może go podać",
+      "Tylko za zgodą pacjenta bez lekarza"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Czym tikagrelor różni się od klopidogrelu pod względem wiązania z receptorem?",
+    "answers": [
+      "Wiąże się odwracalnie, klopidogrel nieodwracalnie",
+      "Wiąże się nieodwracalnie tak samo jak klopidogrel",
+      "Nie wiąże się z receptorem P2Y12",
+      "Działa wyłącznie na receptory adrenergiczne"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Z jakim innym lekiem przeciwpłytkowym łączy się standardowo tikagrelor w OZW?",
+    "answers": [
+      "Z kwasem acetylosalicylowym",
+      "Z insuliną",
+      "Z atropiną",
+      "Z furosemidem"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jaki jest jeden ze specyficznych, nietypowych dla tej grupy leków, objawów niepożądanych tikagreloru?",
+    "answers": [
+      "Duszność",
+      "Wypadanie włosów",
+      "Nadmierne owłosienie",
+      "Utrata węchu"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jakie jest główne wskazanie do podania tlenu medycznego?",
+    "answers": [
+      "Hipoksja, niewydolność oddechowa, wstrząs",
+      "Ból",
+      "Hipoglikemia",
+      "Bradykardia bez hipoksji"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jaka jest docelowa saturacja krwi tlenem u większości pacjentów podczas tlenoterapii?",
+    "answers": [
+      "94-98%",
+      "60-70%",
+      "100% zawsze bezwzględnie",
+      "80-85%"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jaka jest docelowa saturacja u pacjentów z POChP zagrożonych hiperkapnią?",
+    "answers": [
+      "88-92%",
+      "94-98%",
+      "60-65%",
+      "100%"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Czy tlen medyczny jest formalnie produktem leczniczym wymagającym wskazań do podania?",
+    "answers": [
+      "Tak",
+      "Nie, można go podawać zawsze bez wskazań",
+      "Jest tylko gazem technicznym",
+      "Nie wymaga żadnej kontroli"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jakie ryzyko wiąże się z nadmierną, niekontrolowaną tlenoterapią u niektórych pacjentów z POChP?",
+    "answers": [
+      "Depresja napędu oddechowego",
+      "Natychmiastowa poprawa bez ryzyka",
+      "Hipoglikemia",
+      "Nadciśnienie"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "W jakim zatruciu podaje się tlen w wysokim stężeniu niezależnie od wartości saturacji z pulsoksymetru?",
+    "answers": [
+      "Zatrucie tlenkiem węgla",
+      "Zatrucie paracetamolem",
+      "Zatrucie alkoholem",
+      "Zatrucie opioidami"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jaki przepływ tlenu stosuje się przy masce z rezerwuarem, aby uzyskać wysokie stężenie tlenu wdechowego?",
+    "answers": [
+      "10-15 l/min",
+      "1-2 l/min",
+      "50-60 l/min",
+      "0,5 l/min"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Czy tlen medyczny jest sam w sobie substancją palną?",
+    "answers": [
+      "Nie jest palny, ale podtrzymuje spalanie",
+      "Jest wybuchowy sam w sobie",
+      "Jest obojętny wobec ognia i nie ma znaczenia przy pożarze",
+      "Gasi ogień"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jakim narzędziem monitoruje się skuteczność tlenoterapii?",
+    "answers": [
+      "Pulsoksymetrem (pomiar SpO2)",
+      "Termometrem",
+      "Glukometrem",
+      "Ciśnieniomierzem wyłącznie"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jakim sprzętem podaje się tlen o niskim/średnim stężeniu w łagodniejszych stanach?",
+    "answers": [
+      "Wąsy tlenowe lub maska twarzowa",
+      "Wyłącznie maska z rezerwuarem",
+      "Wyłącznie respirator",
+      "Wyłącznie worek samorozprężalny"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Do jakiej grupy płynów infuzyjnych należy hydroksyetyloskrobia?",
+    "answers": [
+      "Koloidowy płyn infuzyjny",
+      "Krystaloid",
+      "Roztwór hipertoniczny wyłącznie glukozy",
+      "Roztwór do żywienia pozajelitowego"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jakie jest główne wskazanie do podania hydroksyetyloskrobii?",
+    "answers": [
+      "Uzupełnianie objętości wewnątrznaczyniowej we wstrząsie hipowolemicznym",
+      "Hipoglikemia",
+      "Ból",
+      "Bradykardia"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jaka jest przewaga koloidów, takich jak hydroksyetyloskrobia, nad krystaloidami pod względem czasu działania?",
+    "answers": [
+      "Dłużej pozostają w łożysku naczyniowym",
+      "Szybciej opuszczają naczynia niż krystaloidy",
+      "Nie ma żadnej różnicy",
+      "Działają wyłącznie miejscowo"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jakie ryzyko wiąże się ze stosowaniem dużych dawek hydroksyetyloskrobii?",
+    "answers": [
+      "Zaburzenia krzepnięcia, uszkodzenie nerek",
+      "Hipoglikemia",
+      "Bradykardia",
+      "Drgawki"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Dlaczego stosowanie hydroksyetyloskrobii jest obecnie ograniczane w wielu wskazaniach?",
+    "answers": [
+      "Ze względu na ryzyko powikłań nerkowych, zwłaszcza u pacjentów w sepsie",
+      "Ze względu na wysoki koszt wyłącznie",
+      "Ze względu na krótki termin przydatności",
+      "Ze względu na brak jakiegokolwiek działania"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jaką drogą podaje się hydroksyetyloskrobię?",
+    "answers": [
+      "Dożylnie",
+      "Doustnie",
+      "Wziewnie",
+      "Domięśniowo"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "U jakich pacjentów istnieją istotne ograniczenia w stosowaniu hydroksyetyloskrobii?",
+    "answers": [
+      "U pacjentów z sepsą i niewydolnością nerek",
+      "U pacjentów z bólem głowy",
+      "U pacjentów z astmą",
+      "U pacjentów z gorączką bez wstrząsu"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Czy hydroksyetyloskrobia może wywołać reakcje alergiczne?",
+    "answers": [
+      "Tak, choć są rzadkie",
+      "Nigdy nie wywołuje reakcji alergicznych",
+      "Zawsze wywołuje wstrząs anafilaktyczny",
+      "Jest lekiem przeciwalergicznym"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Co należy monitorować przy podawaniu większych objętości hydroksyetyloskrobii?",
+    "answers": [
+      "Czynność nerek oraz parametry krzepnięcia",
+      "Wyłącznie temperaturę ciała",
+      "Wyłącznie poziom cukru",
+      "Wyłącznie tętno"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Czym różni się hydroksyetyloskrobia od krystaloidów pod względem ryzyka powikłań?",
+    "answers": [
+      "Wiąże się z większym ryzykiem powikłań (nerkowych, krzepnięcia)",
+      "Jest zawsze całkowicie bezpieczniejsza od krystaloidów",
+      "Nie ma żadnej różnicy w ryzyku",
+      "Krystaloidy są bardziej ryzykowne"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jakie jest główne wskazanie do podania płynu wieloelektrolitowego izotonicznego?",
+    "answers": [
+      "Uzupełnianie płynów i elektrolitów, wstrząs hipowolemiczny",
+      "Hipoglikemia",
+      "Ból",
+      "Bradykardia"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Do czego zbliżony jest skład elektrolitowy płynu wieloelektrolitowego izotonicznego?",
+    "answers": [
+      "Do składu osocza",
+      "Do wody destylowanej",
+      "Do czystej glukozy",
+      "Do stężonego roztworu soli"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jaka jest zaleta płynu wieloelektrolitowego względem 0,9% NaCl przy dużych objętościach?",
+    "answers": [
+      "Mniejsze ryzyko kwasicy hiperchloremicznej",
+      "Silniejsze działanie przeciwbólowe",
+      "Zawiera antybiotyk",
+      "Działa jak lek przeciwarytmiczny"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jaką drogą podaje się płyn wieloelektrolitowy izotoniczny?",
+    "answers": [
+      "Dożylnie",
+      "Doustnie",
+      "Wziewnie",
+      "Domięśniowo"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "W jakich sytuacjach klinicznych stosuje się płyn wieloelektrolitowy izotoniczny?",
+    "answers": [
+      "Nawodnienie, terapia płynowa w urazach i oparzeniach",
+      "Wyłącznie w hipoglikemii",
+      "Wyłącznie w drgawkach",
+      "Wyłącznie w bólu"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "U jakich pacjentów należy zachować ostrożność przy podawaniu dużych objętości płynu wieloelektrolitowego?",
+    "answers": [
+      "Z ciężką niewydolnością nerek/serca (ryzyko przeciążenia płynowego)",
+      "Z bólem głowy",
+      "Z astmą",
+      "Z gorączką"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Czy typowy płyn wieloelektrolitowy izotoniczny zawiera potas w stężeniach zbliżonych do osocza?",
+    "answers": [
+      "Tak",
+      "Nie zawiera żadnych elektrolitów",
+      "Zawiera wyłącznie sód",
+      "Zawiera wyłącznie glukozę"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Co należy monitorować podczas intensywnej terapii płynowej płynem wieloelektrolitowym?",
+    "answers": [
+      "Bilans płynów i objawy przeciążenia (np. obrzęk płuc)",
+      "Wyłącznie poziom cukru",
+      "Wyłącznie temperaturę ciała",
+      "Wyłącznie tętno"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Czym płyn wieloelektrolitowy izotoniczny może różnić się od roztworu Ringera?",
+    "answers": [
+      "Dokładnym składem jonowym/buforującym",
+      "Zawsze jest identyczny z roztworem Ringera",
+      "Nie zawiera żadnych elektrolitów w ogóle",
+      "Jest hipertoniczny w przeciwieństwie do Ringera"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Czy płyn wieloelektrolitowy izotoniczny stosuje się w terapii płynowej oparzeń wg protokołów?",
+    "answers": [
+      "Tak",
+      "Nigdy nie jest stosowany w oparzeniach",
+      "Tylko w oparzeniach chemicznych",
+      "Tylko domięśniowo w oparzeniach"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jakie jest główne wskazanie do podania roztworu Ringera?",
+    "answers": [
+      "Nawodnienie, terapia płynowa we wstrząsie hipowolemicznym i urazach",
+      "Hipoglikemia",
+      "Ból",
+      "Bradykardia"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jakie elektrolity zawiera roztwór Ringera oprócz sodu i chloru?",
+    "answers": [
+      "Potas i wapń",
+      "Wyłącznie magnez",
+      "Wyłącznie fosforany",
+      "Żadnych dodatkowych elektrolitów"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Czym roztwór Ringera różni się od 0,9% soli fizjologicznej?",
+    "answers": [
+      "Zawiera dodatkowe elektrolity (potas, wapń), bardziej zbliżony do osocza",
+      "Nie zawiera żadnych elektrolitów",
+      "Jest hipertoniczny",
+      "Zawiera glukozę w wysokim stężeniu"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jaką drogą podaje się roztwór Ringera?",
+    "answers": [
+      "Dożylnie",
+      "Doustnie",
+      "Wziewnie",
+      "Domięśniowo"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "U jakich pacjentów należy zachować ostrożność przy podawaniu roztworu Ringera ze względu na zawartość potasu?",
+    "answers": [
+      "U pacjentów z hiperkaliemią",
+      "U pacjentów z hipoglikemią",
+      "U pacjentów z astmą",
+      "U pacjentów z bólem głowy"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Do czego stosuje się roztwór Ringera w urazach?",
+    "answers": [
+      "Uzupełnianie utraconej objętości krwi/płynów",
+      "Wyłącznie do znieczulenia",
+      "Wyłącznie do leczenia bólu",
+      "Wyłącznie do leczenia gorączki"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Czy roztwór Ringera jest standardowo stosowany w resuscytacji płynowej w oparzeniach?",
+    "answers": [
+      "Tak",
+      "Nigdy nie jest stosowany w oparzeniach",
+      "Tylko domięśniowo w oparzeniach",
+      "Tylko w oparzeniach chemicznych"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Co należy monitorować podczas podawania większych objętości roztworu Ringera?",
+    "answers": [
+      "Bilans płynów i objawy przeciążenia",
+      "Wyłącznie poziom cukru",
+      "Wyłącznie temperaturę ciała",
+      "Wyłącznie tętno"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jaki dodatkowy składnik zawiera zmodyfikowany roztwór Ringera z mleczanem (płyn Hartmanna)?",
+    "answers": [
+      "Mleczan (jako bufor)",
+      "Insulinę",
+      "Adrenalinę",
+      "Antybiotyk"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "U jakich pacjentów zachować ostrożność przy stosowaniu roztworu Ringera z mleczanem?",
+    "answers": [
+      "Z ciężką niewydolnością wątroby (zaburzony metabolizm mleczanu)",
+      "Z bólem głowy",
+      "Z astmą",
+      "Z gorączką bez innych schorzeń"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jakie jest główne wskazanie do podania soli fizjologicznej 0,9%?",
+    "answers": [
+      "Nawodnienie, terapia płynowa, rozpuszczanie leków",
+      "Hipoglikemia",
+      "Ból",
+      "Bradykardia"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Co zawiera sól fizjologiczna 0,9%?",
+    "answers": [
+      "Chlorek sodu w stężeniu izotonicznym względem osocza",
+      "Wyłącznie glukozę",
+      "Wyłącznie potas",
+      "Wyłącznie wapń"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jakie ryzyko wiąże się z podaniem bardzo dużych objętości 0,9% NaCl?",
+    "answers": [
+      "Kwasica hiperchloremiczna",
+      "Natychmiastowa hipoglikemia",
+      "Bradykardia zawsze",
+      "Hipokaliemia zawsze"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jaką drogą podaje się sól fizjologiczną 0,9%?",
+    "answers": [
+      "Dożylnie",
+      "Wyłącznie doustnie",
+      "Wyłącznie wziewnie",
+      "Wyłącznie domięśniowo"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Do czego, oprócz nawadniania, wykorzystuje się sól fizjologiczną w ratownictwie?",
+    "answers": [
+      "Przepłukiwanie dostępu dożylnego, rozcieńczanie/przemywanie",
+      "Wyłącznie do znieczulenia",
+      "Wyłącznie jako lek przeciwbólowy",
+      "Wyłącznie jako antidotum na opioidy"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "U jakich pacjentów zachować ostrożność przy dużych objętościach soli fizjologicznej?",
+    "answers": [
+      "Z niewydolnością serca/nerek (ryzyko przeciążenia objętościowego)",
+      "Z bólem głowy",
+      "Z astmą",
+      "Z gorączką"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Czy sól fizjologiczna 0,9% zawiera potas?",
+    "answers": [
+      "Nie",
+      "Tak, w dużym stężeniu",
+      "Tak, ale tylko śladowe ilości niezauważalne klinicznie",
+      "Zawiera wyłącznie potas bez sodu"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jaką rolę pełni sól fizjologiczna 0,9% w leczeniu hipowolemii?",
+    "answers": [
+      "Jest podstawowym płynem resuscytacyjnym pierwszego wyboru w wielu protokołach",
+      "Nie ma zastosowania w hipowolemii",
+      "Jest przeciwwskazana w hipowolemii",
+      "Pogłębia hipowolemię"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Co należy monitorować przy podawaniu większych objętości soli fizjologicznej?",
+    "answers": [
+      "Bilans płynów i objawy przeciążenia",
+      "Wyłącznie poziom cukru",
+      "Wyłącznie temperaturę ciała",
+      "Wyłącznie tętno"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Czy sól fizjologiczną 0,9% można stosować do przemywania ran?",
+    "answers": [
+      "Tak, jest standardowo stosowana do przemywania ran",
+      "Nigdy się jej nie stosuje do ran",
+      "Tylko do ran oparzeniowych",
+      "Powoduje uszkodzenie tkanek przy kontakcie"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Do jakiej grupy leków należy thiethylperazinum (thiethylperazyna)?",
+    "answers": [
+      "Lek przeciwwymiotny (pochodna fenotiazyny)",
+      "Opioid",
+      "Benzodiazepina",
+      "Beta-bloker"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jakie jest główne wskazanie do podania thiethylperazyny?",
+    "answers": [
+      "Nudności i wymioty",
+      "Ból ostry",
+      "Bradykardia",
+      "Hipoglikemia"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jaki jest mechanizm działania thiethylperazyny?",
+    "answers": [
+      "Antagonista receptorów dopaminowych D2 w ośrodku wymiotnym",
+      "Agonista receptorów opioidowych",
+      "Bloker kanału wapniowego",
+      "Antagonista receptorów H1 wyłącznie"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jakimi drogami podaje się thiethylperazynę?",
+    "answers": [
+      "Domięśniowo, doustnie, doodbytniczo",
+      "Wyłącznie dożylnie",
+      "Wyłącznie wziewnie",
+      "Wyłącznie podjęzykowo"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jakie działanie niepożądane może wystąpić po thiethylperazynie, podobnie jak po metoklopramidzie?",
+    "answers": [
+      "Reakcje pozapiramidowe (dystonia, kręcz karku)",
+      "Bradykardia",
+      "Hipoglikemia",
+      "Wyłącznie łagodna senność bez innych efektów"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jaka jest typowa dawka thiethylperazyny domięśniowo u dorosłego?",
+    "answers": [
+      "6,5 mg",
+      "0,1 mg",
+      "65 mg",
+      "650 mg"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Czy thiethylperazyna jest stosowana jako alternatywa dla metoklopramidu w leczeniu nudności?",
+    "answers": [
+      "Tak",
+      "Nie, nie ma zastosowania w nudnościach",
+      "Jest lekiem przeciwbólowym, nie przeciwwymiotnym",
+      "Zastępuje wyłącznie leki przeciwalergiczne"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jak thiethylperazyna wchodzi w interakcję z innymi lekami hamującymi OUN?",
+    "answers": [
+      "Nasila ich działanie sedatywne",
+      "Osłabia ich działanie",
+      "Nie ma żadnej interakcji",
+      "Odwraca ich działanie"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "Jakie ryzyko kardiologiczne wiąże się ze stosowaniem thiethylperazyny, podobnie jak innych pochodnych fenotiazyny?",
+    "answers": [
+      "Wydłużenie odstępu QT",
+      "Ciężka bradykardia zawsze",
+      "Nagłe nadciśnienie",
+      "Brak jakiegokolwiek ryzyka kardiologicznego"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Leki",
+    "question": "U jakiej grupy pacjentów zachować szczególną ostrożność przy stosowaniu thiethylperazyny?",
+    "answers": [
+      "U pacjentów z ciężkimi zaburzeniami OUN i u małych dzieci",
+      "U pacjentów z bólem głowy",
+      "U pacjentów z astmą",
+      "U pacjentów z gorączką bez innych schorzeń"
+    ],
+    "correct": 0
+  }
+]
